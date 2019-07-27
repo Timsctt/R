@@ -1,0 +1,2001 @@
+"year";"length";"budget";"rating";"votes"
+"Manhattan Baby";1982;89;300000;4;196
+"Wilson";1944;154;4000000;6.8;158
+"Spirit: Stallion of the Cimarron";2002;86;80000000;6.4;2738
+"Garden of Allah, The";1936;79;2200000;6.2;139
+"Game, The";1997;128;50000000;7.6;28099
+"Wraith, The";1986;93;2700000;4.9;1291
+"Private Parts";1997;109;20000000;6.6;9289
+"Double Indemnity";1944;110;927262;8.5;11592
+"Killing Box, The";1993;80;1200000;4;127
+"Urban Legends: Final Cut";2000;97;15000000;3.8;3280
+"Spaceman";1997;88;50000;4.7;67
+"Not as a Stranger";1955;135;2000000;6.6;223
+"Tears of the Sun";2003;121;70000000;6.2;8690
+"Legally Blonde";2001;96;18000000;6.4;17572
+"Heartbreakers";2001;110;40000000;6.2;8037
+"Green Berets, The";1968;141;7000000;4.9;1851
+"Cable Guy, The";1996;96;47000000;5.5;16266
+"She's Gotta Have It";1986;88;160000;6.3;1034
+"Children Shouldn't Play with Dead Things";1972;87;70000;4.4;413
+"Dead End Road";2004;94;100000;5.8;5
+"War Hunt";1962;83;300000;6.3;95
+"Espera, La";2002;72;100000;8.8;15
+"Dead Heat on a Merry-Go-Round";1966;104;2000000;6;167
+"Dirigible";1931;100;650000;5.9;48
+"Terminal, The";2004;128;60000000;7.1;15809
+"Breathing Room";1996;90;500000;4;39
+"Lawrence of Arabia";1962;227;15000000;8.6;31230
+"War Lord, The";1965;123;3500000;6.8;393
+"Annie Get Your Gun";1950;107;3768785;7.2;529
+"Monster from the Ocean Floor";1954;51;12000;2.6;49
+"Gentleman's Agreement";1947;118;2000000;7.4;1173
+"Soldiers Pay";2004;35;180000;7;34
+"Casshern";2004;141;5000000;6.5;1237
+"Death of Daniel Whately, The";2004;111;5000;6.6;5
+"Child's Play";1988;87;19000000;5.9;4250
+"Wide Awake";1998;88;7000000;6;655
+"Mama";1999;100;3000000;6;66
+"Night Shadows";1984;99;2500000;3.8;134
+"Fei ying";2004;99;15000000;5.5;128
+"Identity";2003;90;30000000;7.3;18747
+"Chain Reaction";1996;106;55000000;5.1;5936
+"Dreamer: The Movie";2004;93;23500;9;7
+"Field of Honor, A";1973;15;1400;7.7;32
+"Live and Let Die";1973;121;7000000;6.6;8022
+"Joy";1983;102;2000000;5;49
+"Student Nurses, The";1970;89;150000;3.4;29
+"Jabberwocky";1977;105;500000;6;2109
+"Squeeze";1997;102;155000;4.9;57
+"Singing Detective, The";2003;109;10000000;5.3;1184
+"Legend of Razorback, The";2002;25;50000;5.1;29
+"Double Impact";1991;109;16000000;4.5;2749
+"Gunrunner, The";1984;78;2000000;3.2;84
+"In & Out";1997;92;35000000;6.2;10352
+"Yes and";2004;92;5000;8.5;10
+"His/Herstory";2003;20;33000;7.6;5
+"Follow Me Outside";2000;94;1000000;4.6;12
+"They Live";1988;93;4000000;6.5;5131
+"Absolution";2001;23;13000;1.6;8
+"Day Without a Mexican, A";2004;100;1500000;5;561
+"Girl, Interrupted";1999;127;24000000;7;16362
+"Line of Masculinity, The";2003;4;1000;8.2;10
+"Have Rocket, Will Travel";1959;76;380000;5.6;93
+"Cursed";2005;97;35000000;4.7;1277
+"Airborne";1993;91;2600000;5.2;1047
+"Johnson Family Vacation";2004;97;12000000;3.6;955
+"Delivered";1998;93;1000000;5.1;73
+"Mutant Aliens";2001;81;200000;6.4;223
+"Rock and Roll Fantasy";1992;90;50000;4.4;37
+"Avalon";2001;106;8000000;6.8;2723
+"Dark Star";1974;83;60000;6.6;3527
+"Run, Angel, Run";1969;95;96000;5.4;28
+"Noah's Ark";1929;75;2000000;5.9;73
+"Beautiful Country, The";2004;137;6000000;6.9;115
+"Kissing Jessica Stein";2001;97;1000000;7;4236
+"Ninotchka";1939;100;1365000;7.9;2388
+"MindField";2003;63;6000;9;5
+"Dead Next Door, The";1988;84;75000;4.8;275
+"AVP: Alien Vs. Predator";2004;102;45000000;5.4;14651
+"Frequency";2000;118;31000000;7.4;15317
+"Bonfire of the Vanities, The";1990;125;47000000;5;4151
+"Naked Zoo, The";1971;78;250000;1.3;5
+"Shanghai Cobra, The";1945;64;75000;5.9;55
+"Too Late Blues";1961;103;375000;6.6;64
+"Rymdinvasion i Lappland";1959;81;40000;2.9;122
+"Rope";1948;80;1500000;7.8;7916
+"Constantine";2005;121;100000000;6.4;11633
+"Much Ado About Nothing";1993;111;8000000;7.5;12491
+"Cat in the Hat, The";2003;82;109000000;3.2;4997
+"Sweet November";2001;115;40000000;5.5;5458
+"Death Bed: The Bed That Eats";1977;80;30000;6.1;55
+"Are We There Yet?";2005;95;32000000;3.5;1043
+"Elephant";2003;81;3000000;7.3;9203
+"Blob, The";1958;82;240000;6;2143
+"Song of Bernadette, The";1943;156;2000000;7.7;671
+"Wisegirls";2002;96;11000000;5.7;792
+"Daredevil";2003;133;75000000;5.7;20642
+"Eating";2005;13;60000;9.1;7
+"Marty";1955;94;343000;7.7;2075
+"Two Weeks Notice";2002;101;60000000;5.8;15010
+"Coming to America";1988;116;28000000;6.6;13103
+"Walk in the Sun, A";1945;117;800000;7.8;482
+"Quick and the Dead, The";1995;107;32000000;6.1;8837
+"Shall We Dance";1937;109;991000;7.6;603
+"Philadelphia";1993;125;26000000;7.5;17861
+"Adventures of Rocky & Bullwinkle, The";2000;88;76000000;4.3;4815
+"Arlington Road";1999;117;21500000;7.1;17189
+"Natural Born Killers";1994;122;50000000;6.6;25596
+"Thomas Crown Affair, The";1968;102;4300000;6.7;2766
+"Birthday Girl";2001;93;13000000;6.1;5340
+"Oblivion 2: Backlash";1996;83;2500000;5.1;92
+"Vampire in Brooklyn";1995;100;14000000;4.4;2716
+"Summer Catch";2001;105;17000000;4.5;2581
+"Lolita";1962;152;2000000;7.6;9150
+"Barbary Coast";1935;91;778000;6.6;168
+"Guru, The";2002;94;11000000;5.9;3505
+"Warning, The";2004;9;6500;7;9
+"North to Alaska";1960;122;3500000;6.7;777
+"Take Me Somewhere Nice";2004;17;8000;8.8;8
+"Band of the Hand";1986;109;8700000;4.9;378
+"Silver Bullet";1985;95;7000000;5.6;2000
+"Saturn";1999;94;350000;5.5;43
+"Along Came Polly";2004;90;42000000;5.8;9785
+"Spudmonkey";2001;88;1100000;7.8;8
+"Elf";2003;95;33000000;7;10165
+"Apt Pupil";1998;112;14000000;6.4;6728
+"Curucu, Beast of the Amazon";1956;76;155000;5.6;27
+"Adventures of Elmo in Grouchland, The";1999;89;17000000;5.5;420
+"Frankenstein Meets the Spacemonster";1965;79;60000;2.5;72
+"28 Days";2000;103;43000000;6;7465
+"Judgment at Nuremberg";1961;186;3000000;8.2;3336
+"Cellar, The";2003;20;5000;7.1;5
+"Brothers McMullen, The";1995;98;23800;6.4;2325
+"Traffic in Souls";1913;88;5700;6.2;44
+"Kiss or Kill";1997;96;2000000;6.2;590
+"Buffalo Bill and the Indians, or Sitting Bull's History Lesson";1976;123;6000000;5.6;452
+"Mercy Streets";2000;106;600000;4.6;149
+"Adventures of Dollie, The";1908;12;0;5.1;34
+"Mulan";1998;88;70000000;7.2;11192
+"Drumline";2002;118;20000000;5.3;7368
+"Jing Gai'er";2004;108;700000;8.9;14
+"FearDotCom";2002;101;42000000;3.2;5126
+"Invaders from Mars";1986;99;12000000;4.6;675
+"Running Brave";1983;106;8000000;6.1;156
+"Friends Like These";2005;5;0;9;8
+"Unendliche Geschichte, Die";1984;94;27000000;7.2;6742
+"Insight of Evil";2003;80;120000;5.1;11
+"Blood Alley";1955;115;2000000;5.7;316
+"101-vy kilometer";2001;103;200000;5.8;7
+"Agent Cody Banks";2003;102;26000000;5.5;2655
+"Jaws 3-D";1983;99;20500000;3.2;5028
+"Rutland, USA";2002;100;4000;3.9;15
+"On the Border";1998;103;3000000;4.8;165
+"Star of Midnight";1935;90;280000;7;89
+"Brat 2";2000;122;1500000;6.7;528
+"Charade";1963;113;4000000;8.1;9046
+"Gift, The";2000;111;10000000;6.8;12440
+"Gandhi";1982;188;22000000;8;15879
+"V leru";1999;92;250000;7;114
+"Jonathan Livingston Seagull";1973;120;1500000;4.6;250
+"Austin Powers: The Spy Who Shagged Me";1999;95;33000000;6.5;37019
+"Citizen Kane";1941;119;686033;8.7;61083
+"Greetings";1968;88;39000;5.6;349
+"Raising Victor Vargas";2002;88;800000;6.7;1785
+"Radio Flyer";1992;114;35000000;6.4;2447
+"Book of Shadows: Blair Witch 2";2000;90;15000000;4.2;6532
+"Boys from Brazil, The";1978;123;12000000;6.8;2826
+"Bubba Ho-tep";2002;92;1000000;7.5;7142
+"Hedwig and the Angry Inch";2001;93;6000000;7.7;6072
+"Cop Land";1997;116;15000000;6.7;12677
+"Dead Babies";2000;100;1000000;4.3;172
+"Mad Love";1935;68;257502;7.1;322
+"Moment of Grace, A";2004;20;50000;8.6;14
+"Forever Lulu";2000;99;20000000;5.5;257
+"Atlantic City";1980;104;7200000;7.5;2384
+"It Started with Eve";1941;90;1166000;7.4;136
+"Svoi";2004;111;2500000;8.4;97
+"Armageddon";1998;153;140000000;5.7;45330
+"Darling Lili";1970;107;25000000;5.9;287
+"Bring It On";2000;98;10000000;6.1;11784
+"Solaris";2002;99;47000000;6.3;11808
+"Snell Show, The";2003;8;6000;9.2;15
+"Kid from Borneo, The";1933;18;21500;8;65
+"Forsaken, The";2001;90;5000000;5.1;1928
+"Gold Rush, The";1925;82;923000;8.3;6429
+"ABCD";1999;105;200000;5.4;88
+"Swimfan";2002;85;8500000;4.5;3863
+"Giant Gila Monster, The";1959;74;138000;2.8;432
+"Big Tease, The";1999;86;4000000;6.1;670
+"Visage, The";2003;40;60000;7.2;8
+"Unsaid, The";2001;108;22000000;6.5;1084
+"Sibirskiy tsiryulnik";1998;275;35000000;7.1;1254
+"Last Time I Saw Archie, The";1961;98;2000000;5.7;73
+"New Guy";2003;85;55000;7.5;47
+"Love Letter, The";1999;88;15000000;5.2;1258
+"My Fair Lady";1964;170;17000000;7.8;12721
+"Misbehavers, The";2004;120;10000;7.7;21
+"Trois";2000;93;200000;3.1;176
+"Oz";1976;90;150000;3.8;25
+"Welcome to Sarajevo";1997;103;9000000;6.8;1465
+"Runaway Jury";2003;127;60000000;7.1;10761
+"Blue Crush";2002;104;30000000;5.7;4791
+"Grimm";2003;110;3700000;6.2;201
+"Gods and Monsters";1998;105;3500000;7.6;9020
+"Mindhunters";2004;102;27000000;6.3;3925
+"HipHopBattle.com: Hip Hop 4 Life";2001;98;12000;5.7;15
+"Queen of the Damned";2002;104;35000000;4.7;6999
+"Panic Room";2002;113;48000000;7;24302
+"Hempsters: Plant the Seed";2003;90;250000;6.4;6
+"Fire Over Afghanistan";2003;92;155000;4.5;67
+"Legend of Boggy Creek, The";1973;85;100000;4.3;273
+"Queen Christina";1933;97;1114000;7.7;727
+"Motor Psycho";1965;74;38000;4.9;151
+"To Catch a Thief";1955;106;2500000;7.4;6053
+"Apocalypse Now";1979;202;31500000;8.5;64785
+"Evil Alien Conquerors";2002;89;500000;3.8;111
+"Star-Crossed";2003;105;2500;8.4;69
+"Pest, The";1997;84;17000000;3.8;1405
+"House of the Long Shadows";1983;100;7500000;5.8;239
+"Remember the Titans";2000;113;30000000;7.4;14195
+"Scorpio Rising";1964;30;16000;6.6;284
+"Bamboozled";2000;135;10000000;6.3;2356
+"Crow: Salvation, The";2000;102;25000000;4.9;1383
+"Rancid Aluminium";2000;88;12000000;3.5;352
+"Bulldog Drummond";1929;90;550000;6.6;91
+"Jing cha gu shi III: Chao ji jing cha";1992;95;900000;6.7;2024
+"Wednesday Afternoon";2004;24;40000;8.3;17
+"King & Country";1964;89;300000;7.9;144
+"Cold Mountain";2003;152;83000000;7.4;15712
+"High Crimes";2002;115;42000000;6.1;6043
+"Killing, The";1956;85;320000;8.1;6980
+"Original Gangstas";1996;99;4800000;5.3;216
+"Crossfire";1947;86;250000;7.6;593
+"Dragon: The Bruce Lee Story";1993;119;14000000;6.7;3244
+"Mystic River";2003;137;30000000;8;28969
+"His People";1925;93;93000;6.7;6
+"Stanley";1972;108;125000;3.9;36
+"Because of Winn-Dixie";2005;106;14000000;5.9;483
+"Straw Dogs";1971;113;3251794;7.4;4755
+"Keep, The";1983;96;6000000;5.4;1217
+"Teenage Mutant Ninja Turtles";1990;93;13500000;5.5;6946
+"Moon and Sixpence, The";1943;89;401000;6.7;34
+"Gog";1954;85;250000;5;71
+"Nightmare Sisters";1987;83;40000;3.5;55
+"Along Came a Spider";2001;104;28000000;6.1;9456
+"Buck Privates";1941;84;180000;6.8;461
+"Raiders of the Lost Ark";1981;115;20000000;8.7;93511
+"Trainspotting";1996;94;3500000;8;51887
+"Prowler, The";1981;87;1000000;4.7;332
+"Five Graves to Cairo";1943;96;855000;7.6;379
+"Bear, The";1984;110;221000;5.9;135
+"Doctor Zhivago";1965;200;11000000;7.9;10283
+"Nickelodeon";1976;121;9000000;6;291
+"Top Dog";1995;86;6000000;3.3;348
+"My Fellow Americans";1996;101;21500000;6.3;2752
+"Never Let Me Go";1953;69;1500000;5.4;76
+"Shakespeare's Dilemma";2003;38;0;8;8
+"Dark Command";1940;94;1000000;6.4;301
+"Trash";1970;110;25000;6.7;316
+"Rachel's Attic";2002;112;83000;2.4;58
+"Love in the Afternoon";1957;125;2100000;7.3;1125
+"Musketeer, The";2001;104;40000000;4.4;3966
+"Legally Blonde 2: Red, White & Blonde";2003;95;45000000;4.4;6293
+"Mutiny on the Bounty";1935;127;1950000;7.8;2548
+"Faces";1968;130;275000;7.4;770
+"Body of Influence 2";1996;87;1200000;3.4;44
+"Naturally Native";1998;107;700000;8.5;26
+"Machuca";2004;121;1500000;8.4;449
+"Judith of Bethulia";1914;61;36000;6.9;47
+"Last Soviet Movie, The";2003;80;3500000;7.6;6
+"Fantasia";1940;80;2280000;7.8;14925
+"Made";2001;94;5000000;6.5;4487
+"Lost Souls";2000;97;28000000;4.6;3423
+"Guest of Honor, The";2001;15;30000;6.8;15
+"Shooting Fish";1997;103;3000000;6.6;2701
+"Enter the Dragon";1973;99;850000;7.4;8078
+"Kinky Coaches and the Pom Pom Pussycats, The";1981;91;2500000;1.9;16
+"Aimee Semple McPherson";2004;112;500000;8.4;8
+"Black Hole, The";1979;98;18500000;5.4;3425
+"Husbands and Wives";1992;108;20000000;7.4;3622
+"Running Man, The";1987;101;27000000;6.2;11847
+"Mackenna's Gold";1969;136;7000000;6.2;644
+"Spirithunter, The";2004;115;100000;8.3;7
+"Scarlett Mecca and the Pentagram Girl";2000;20;20000;6.3;8
+"Yards, The";2000;115;20000000;6.3;3386
+"Sirota kazanskaya";1997;82;800000;7;47
+"Terminal Choice";1985;93;3900000;5.1;69
+"Dead of Night";1974;88;235000;6;206
+"Far and Away";1992;140;30000000;6.2;8556
+"Insutooru";2004;94;2000000;6.1;7
+"Reasonable Man, A";1999;103;61000;7.3;85
+"Midnight Cowboy";1969;113;3600000;7.9;13091
+"Glory";1989;122;18000000;8.1;21861
+"Friday the 13th";1980;95;700000;5.8;7475
+"Rudolph Valentino and His 88 American Beauties";1923;13;0;4.1;9
+"Teen Wolf Too";1987;95;3000000;2.7;2209
+"Shade";2003;101;6800000;6.5;1616
+"Life";1999;108;75000000;5.8;4857
+"Blood of the Samurai";2001;75;2000;6.5;18
+"Conformista, Il";1970;115;750000;7.7;1348
+"Snake Eyes";1998;98;73000000;5.7;12091
+"I Married a Strange Person!";1997;74;250000;6.2;391
+"West Beyrouth";1998;105;800000;7.3;462
+"Temporary Girl";1998;90;250000;7.5;21
+"Boys Night Out";1996;34;30000;7.7;9
+"Bridge Too Far, A";1977;176;26000000;7;5527
+"This Is Elvis";1981;144;5000000;6.2;200
+"Corky Romano";2001;86;11000000;4.6;2463
+"Fascination";2004;95;5000000;3.3;124
+"Money Train";1995;103;68000000;5.1;5081
+"MASH";1970;112;3500000;7.8;14829
+"Tingler, The";1959;82;250000;6.5;550
+"Blue Hill Avenue";2001;120;1200000;6.6;85
+"Tin Men";1987;110;11000000;6.4;2065
+"Shampoo Horns";1998;89;2500000;4.3;21
+"Therapy Group";2003;3;1000;6.1;5
+"Dirty Dancing";1987;100;6000000;5.9;14407
+"Pick-up Artist, The";1987;81;15000000;4.8;870
+"Shot at Glory, A";2000;114;9000000;6.3;286
+"No Witness";2004;95;350000;3.8;9
+"High, Wide, and Handsome";1937;110;1900000;7;24
+"Next Best Thing, The";2000;108;25000000;4.7;3131
+"Christine";1983;110;9700000;6;5666
+"Igry motylkov";2004;105;1200000;7.3;23
+"Dumb and Dumberer: When Harry Met Lloyd";2003;85;19000000;3.3;4689
+"Otra conquista, La";1998;106;3500000;6.7;140
+"Chopin. Pragnienie milosci";2002;134;3500000;4;55
+"Feet First";1930;93;647000;7;78
+"Kiss of the Dragon";2001;98;25000000;6.2;7887
+"Super Mario Bros.";1993;104;42000000;3.6;5376
+"Supergirl";1984;150;35000000;3.9;2490
+"Bingo";1991;89;10000000;4.1;374
+"Could This Be Love?";1973;29;5000;3.6;8
+"Mommy";1995;89;700000;5.2;62
+"Men in Black";1997;98;90000000;6.8;53231
+"Wedding Advice: Speak Now or Forever Hold Your Peace";2002;57;150000;9.1;36
+"Bound by Honor";1993;190;35000000;7.4;2499
+"Sara";1997;105;835000;6.3;175
+"Outsiders, The";1983;91;10000000;6.8;7125
+"Voice in the Wind, A";1944;85;50000;5.4;9
+"Levity";2003;100;7500000;6.4;1459
+"Lunatics: A Love Story";1991;87;850000;5.4;135
+"Two Story House";2003;14;3000;8;8
+"Hideous Sun Demon, The";1959;74;58500;3.6;120
+"Whisky";2004;99;500000;8;368
+"Beyond the Time Barrier";1960;75;125000;4.3;79
+"Claudine's Return";1998;91;2000000;3.8;80
+"San Francisco";1936;115;1300000;7.5;676
+"Octopussy";1983;131;27500000;6.4;8331
+"Autumn in New York";2000;103;40000000;4.7;3731
+"Antman, The";2002;94;800000;7.2;53
+"Wall Street";1987;125;15000000;7.2;11269
+"One Dark Night";1983;94;978000;4;121
+"Maquinista, El";2004;102;5000000;7.7;4322
+"Key West: City of Colors";2004;64;90000;8.4;5
+"Mysterious Lady, The";1928;89;337000;7;78
+"Ballad of Cable Hogue, The";1970;121;3716946;7.2;712
+"Buena onda";1999;11;2000;5.2;10
+"Psychomania";1964;90;42000;3.6;11
+"Mishima: A Life in Four Chapters";1985;121;5000000;7.5;772
+"Mute Witness";1994;95;2000000;6.8;1202
+"Woo";1998;84;13000000;3.5;407
+"Harrison Macauley Is Going to Kill Me";2003;68;50000;6;7
+"Never Say Never Again";1983;121;36000000;6.1;7537
+"Last Samurai, The";2003;154;100000000;7.9;31668
+"Session 9";2001;97;1500000;6.6;3718
+"Up 'n' Under";1998;99;1000000;5.2;262
+"Civil Brand";2002;95;500000;4.1;102
+"Nanook of the North";1922;79;53000;7.6;846
+"May";2002;93;1700000;6.8;3324
+"Dr. Phibes Rises Again";1972;89;75000;6.3;663
+"Husbands";1970;131;1000000;7;373
+"Quo Vadis?";2001;165;18000000;6.1;250
+"Noodle Soup";2003;8;15000;8.2;7
+"Hukkle";2002;75;100000;7.1;433
+"Star Trek III: The Search for Spock";1984;105;17000000;6.2;9808
+"UnConventional";2004;99;50000;4.6;10
+"Forty Shades of Blue";2005;108;1500000;4.2;57
+"Westward Ho";1935;61;35000;4;36
+"Leather Jacket Love Story";1997;85;67000;6.1;110
+"Proof of Life";2000;135;65000000;6.3;9592
+"Invisible Stripes";1939;81;500000;6.8;111
+"Journey to the Seventh Planet";1962;83;74600;4.2;124
+"Nothing to Lose";1996;108;200000;4.7;138
+"Focus Group";2004;29;8000;9.5;6
+"Ice Cream Man";1995;84;2000000;4.2;349
+"Shark Tale";2004;90;75000000;5.9;7819
+"Airport";1970;137;10000000;6.4;2918
+"Darkman";1990;96;16000000;6.1;6130
+"Blind Horizon";2003;99;5100000;5.5;801
+"Man's Best Friend";1993;95;6000000;4.4;511
+"Beavis and Butt-Head Do America";1996;81;12000000;6.2;9491
+"Cremaster 2";1999;79;1700000;6.5;152
+"Hitch";2005;118;70000000;6.8;7554
+"Marie Antoinette";1938;160;2926000;7.1;255
+"High Sierra";1941;100;455000;7.5;1640
+"Poseidon Adventure, The";1972;117;5000000;6.8;5591
+"Hollow Man";2000;112;95000000;5.3;16168
+"Unbreakable";2000;106;75000000;7.1;35842
+"Under Siege";1992;98;12000000;6.1;9413
+"Dress, The";1984;30;80000;8.4;9
+"Buono, il brutto, il cattivo, Il";1966;180;1200000;8.8;30224
+"Sleeper";1973;89;2000000;7.4;5571
+"Graduate, The";1967;105;3000000;8.2;27555
+"Rebecca";1940;130;1288000;8.3;11403
+"Rosewood";1997;140;31000000;6.8;1840
+"American Yearbook";2004;90;500000;9.3;23
+"Not Another Teen Movie";2001;89;16000000;5.2;10295
+"Yesil isik";2002;111;1500000;3.7;38
+"Affairs with Bears";2002;27;7000;8.3;6
+"Junebug and Hurricane";2004;9;26000;6.5;18
+"Cherry, Harry & Raquel!";1970;71;90000;4.6;189
+"Leftenan Adnan";2000;127;8000000;7.6;16
+"Hello, Dolly!";1969;146;25000000;6.3;1499
+"S.C.I.E.N.C.E";2004;96;3000;7.8;8
+"Time Bandits";1981;110;5000000;6.9;9434
+"Club Dread";2004;119;9000000;5.2;3432
+"Rob Roy";1995;133;28000000;6.8;6652
+"Se7en";1995;127;30000000;8.4;88371
+"Hideous Kinky";1998;98;12000000;6.1;1615
+"Warlock: The Armageddon";1993;98;3000000;4.6;692
+"Reflections in a Golden Eye";1967;108;4500000;6.3;579
+"Snow Falling on Cedars";1999;127;36000000;6.7;4536
+"Ten Commandments, The";1923;146;1800000;7.5;97
+"Looking Out";2002;15;42000;9.4;10
+"Dead End";1937;93;900000;7.5;750
+"Red Badge of Courage, The";1951;69;1640000;7.4;531
+"Hello, Everybody!";1933;69;2000000;4.2;10
+"Mask of Zorro, The";1998;136;65000000;6.8;18220
+"Rage: Carrie 2, The";1999;104;21000000;4.4;3280
+"Roar";1981;102;17000000;5.3;72
+"Once Upon a Time in Mexico";2003;102;29000000;6;14732
+"Texas Chainsaw Massacre 2, The";1986;111;4700000;4.6;2107
+"Fightin' Fools";1941;9;23627;5.2;7
+"In the Land of Milk and Money";2004;89;150000;5.6;7
+"Everything Put Together";2000;87;500000;7.1;151
+"Polar Express, The";2004;99;150000000;6.8;4045
+"Invincible Kung Fu Guy, The";1994;23;3000;8.3;6
+"Hope Floats";1998;114;30000000;5.3;4382
+"Last Broadcast, The";1998;86;0;5.7;967
+"Badlands";1973;94;500000;7.7;4763
+"Crocodile Hunter: Collision Course, The";2002;90;13000000;5.3;1648
+"Cheaper by the Dozen";2003;98;40000000;5.8;5977
+"Ed Wood";1994;127;18000000;8;22612
+"End of Suburbia: Oil Depletion and the Collapse of the American Dream, The";2004;78;60000;7.6;42
+"Elvira, Mistress of the Dark";1988;96;20000000;5.3;1238
+"Nasty Burgers";1993;70;50000;6.2;17
+"Mars Attacks!";1996;106;70000000;6.1;27363
+"Artists and Models";1955;109;1500000;6.2;433
+"Urban Relics";1998;96;500000;8.3;6
+"Disturbing Behavior";1998;84;15000000;5.1;4620
+"Home Movies";1979;90;400000;4.6;103
+"Grace of My Heart";1996;116;5000000;6.5;982
+"Breaking All the Rules";1985;91;2032000;4.8;76
+"I Am Sam";2001;132;22000000;7.2;9945
+"Eyes of Laura Mars";1978;104;7000000;5.8;1174
+"UHF";1989;97;5000000;6.6;6384
+"Night of the Scarecrow";1995;94;2000000;4.3;134
+"Aida degli alberi";2001;75;7000000;4.3;16
+"Decay";1998;80;15000;6.5;8
+"Flesh & Blood";1985;117;6500000;6.3;2047
+"Nikos";2003;100;65000;3.6;93
+"Faust: Love of the Damned";2001;101;6000000;4.1;628
+"Begotten";1991;78;33000;5.8;405
+"Brain That Wouldn't Die, The";1962;82;62000;3;953
+"Blade";1998;110;45000000;6.8;24372
+"When Time Ran Out...";1980;143;20000000;3.5;366
+"Francine St. Claire's Mail";2002;24;10000;6;5
+"Hang 'Em High";1968;114;1800000;6.7;3003
+"Dead Man Walking";1995;122;11000000;7.6;16177
+"Boy-Next-Door";2004;17;50000;9.4;19
+"Snitch";1998;90;11000000;6.2;412
+"Spies Like Us";1985;102;22000000;5.7;6434
+"Tarzan and His Mate";1934;104;1279000;7.4;538
+"Julie Walking Home";2002;118;5000000;7.3;190
+"Pizza Man vs. the Dude";2004;82;16000;7.4;10
+"Color of Night";1994;133;40000000;4.7;4646
+"Jelly Pilgrim";2004;4;60000;2;6
+"Bussed";2003;31;10000;5.2;9
+"Duck, Duck, Goose!";2005;21;20000;8.8;16
+"Harold and Maude";1971;91;1200000;7.9;9173
+"Bloom";2004;7;0;6.8;9
+"Boys in the Sand";1971;90;8000;7.8;14
+"Beach, The";2000;119;50000000;5.8;15020
+"Mystery Men";1999;121;68000000;5.8;13331
+"Moonlight by the Sea";2003;92;10000;8;9
+"Eight Men Out";1988;119;6000000;7.3;3689
+"Boat Trip";2002;97;20000000;4.5;2991
+"Last Seduction, The";1994;110;2500000;7.2;4157
+"Hitchhiker";2003;16;0;5.3;17
+"Kill Me Again";1989;94;4000000;6.2;643
+"Lone Star";1996;135;5000000;7.7;8518
+"Gal Young 'Un";1979;105;94000;5.7;36
+"Trouble with Lou, The";2001;85;90000;6;13
+"Alien Nation";1988;91;16000000;6;2171
+"Losing Lois Lane";2004;20;6000;7.1;24
+"Guinevere";1999;104;2600000;6.3;804
+"Kicked in the Head";1997;87;4000000;4.2;271
+"Soldier";1998;98;75000000;5.2;5590
+"White Like Me";2004;15;40000;8.9;14
+"Crazies, The";1973;103;275000;5.7;669
+"Soldier, The";2003;10;3000;9.2;6
+"Evelyn";2002;94;10000000;7.1;1163
+"French Quarter Undercover";1985;84;2500000;4;5
+"Cujo";1983;93;5000000;5.4;2922
+"PCU";1994;79;9000000;5.9;2963
+"Thunder Afloat";1939;95;1000000;6;15
+"Uptown Saturday Night";1974;104;3000000;5.9;278
+"Like Mike";2002;99;30000000;4.9;1484
+"Thaw";2000;14;15000;8.2;6
+"Friday Night Lights";2004;117;30000000;7;4290
+"Old Man Who Read Love Stories, The";2001;111;9500000;6.1;145
+"2001: A Space Travesty";2000;99;26000000;2.5;2023
+"Pandaemonium";2000;124;15000000;6.2;244
+"Granny, The";1995;85;1000000;4.2;142
+"Shadow of the Vampire";2000;87;8000000;6.8;8366
+"Stardust Memories";1980;91;10000000;6.8;2148
+"Pep Squad";1998;94;500000;4.4;120
+"Inside";2002;8;5000;7.4;36
+"Cold Call";2001;14;20000;7.7;17
+"Entrapment";1999;113;66000000;6.1;18543
+"Flash Gordon";1980;111;35000000;5.7;5626
+"College Coach";1933;76;245000;5.2;55
+"Annie";1982;126;50000000;5.7;3475
+"Bringing Down the House";2003;105;35000000;5.6;6501
+"Spirit of America, The";2001;3;60000;6;14
+"Who Framed Roger Rabbit";1988;99;70000000;7.4;21433
+"Cavalcade";1933;110;1180280;6.8;315
+"Private Detective 62";1933;67;260000;6.6;21
+"Als je begrijpt wat ik bedoel";1983;84;2000000;7.5;224
+"Legion of the Dead";2001;92;2700000;3.4;374
+"Eve's Bayou";1997;109;5000000;7.2;2302
+"Circus, The";1928;71;900000;7.8;1239
+"Primary Colors";1998;143;65000000;6.8;7756
+"Two Thousand Maniacs!";1964;87;65000;5;497
+"Inferno";1980;102;3000000;6.2;1245
+"Tooth";2004;91;12000000;4.3;84
+"Deep, The";1977;123;9000000;5.8;1565
+"Space Cowboys";2000;130;65000000;6.4;11887
+"Steel Helmet, The";1951;85;103000;7.6;259
+"As Good as It Gets";1997;139;50000000;7.7;47441
+"Atomic Submarine, The";1959;72;135000;3.9;94
+"Born on the Fourth of July";1989;145;14000000;7;11480
+"Forrest Gump";1994;142;55000000;8.2;89722
+"Rookie, The";2002;127;24000000;7.2;5135
+"Global Heresy";2002;106;12000000;5.7;373
+"Novocaine";2001;95;6000000;5.9;2829
+"Charly";2002;103;950000;5.5;149
+"Tovarich";1937;98;1400000;7.2;134
+"Major and the Minor, The";1942;100;928000;7.5;598
+"Nutbag";2000;80;40000;4;20
+"Jane Austen's Mafia!";1998;83;10000000;4.8;2999
+"Face/Off";1997;133;80000000;7.1;37506
+"Billy Elliot";2000;110;5000000;7.7;16725
+"Stir of Echoes";1999;99;13000000;7;11433
+"Pushing Tin";1999;119;33000000;5.9;7528
+"White Squall";1996;129;38000000;6.4;3445
+"Innsmouth Legacy";2004;10;1000;6.4;8
+"Thanksgiving";2004;12;150000;7.9;9
+"Awfully Big Adventure, An";1995;112;4000000;5.8;608
+"Travellers and Magicians";2003;108;1800000;7.2;187
+"Grayson";2004;6;17791;8.5;96
+"How Harry Became a Tree";2001;99;6000000;6.7;115
+"Dances with Wolves";1990;236;19000000;7.8;28561
+"Dragonfly";2002;104;60000000;5.8;5431
+"Magnificent Ambersons, The";1942;131;850000;8;3407
+"Enough";2002;115;38000000;4.9;4339
+"Hangin' with the Homeboys";1991;88;1900000;6.6;216
+"Hours, The";2002;114;25000000;7.6;16692
+"I Love You Came Too Late";2004;85;125000;8;7
+"Mantis in Lace";1968;68;35000;3.6;50
+"House of Dark Shadows";1970;102;750000;5.7;328
+"Town & Country";2001;104;90000000;4.5;1434
+"Chasing Liberty";2004;111;23000000;5.7;1911
+"Erotic Adventures of Zorro, The";1972;102;75000;4.2;32
+"Lovely & Amazing";2001;91;250000;6.9;1813
+"Shakespeare's Children";1996;50;100000;5.1;12
+"Midnight Sun";2003;18;4000;1.6;12
+"Last Chase, The";1981;101;4900000;4.3;147
+"Day of Defense";2003;102;500000;3;8
+"Critical Care";1997;107;12000000;5.8;397
+"Mission to Mars";2000;113;90000000;4.9;15018
+"Battle for the Planet of the Apes";1973;96;1800000;4.9;2335
+"Ace Ventura: When Nature Calls";1995;90;30000000;4.9;15161
+"Night of Dark Shadows";1971;129;900000;4.6;139
+"Shawshank Redemption, The";1994;142;25000000;9.1;149494
+"Men in Love";1989;85;350000;2.9;23
+"Old School";2003;92;24000000;6.7;14283
+"Escanaba in da Moonlight";2001;91;1000000;5.5;373
+"Starkweather";2004;92;1000000;4.6;89
+"Killer Klowns from Outer Space";1988;88;2000000;5.3;2702
+"Swordswallowers and Thin Men";2003;105;2500;8.2;6
+"Risky Business";1983;98;6200000;6.7;8622
+"Batoru rowaiaru";2000;122;4500000;7.9;12138
+"Girl Missing";1933;69;107000;6.1;33
+"Shrink Is In, The";2001;87;6000000;4.9;319
+"Antikiller";2002;114;5000000;5.4;231
+"When Tyrants Kiss";2004;93;4000;8.1;7
+"Country of My Skull";2004;104;12000000;5.1;194
+"Swiri";1999;125;5000000;6.6;1704
+"Edgeplay";2004;110;80000;7.2;17
+"Frenzy";1972;116;3500000;7.3;3698
+"City Lights";1931;87;1500000;8.5;7802
+"Message in a Bottle";1999;126;30000000;5.4;5582
+"Fear and Loathing in Las Vegas";1998;118;18500000;7.2;21484
+"Portrait of Jennie";1948;86;4041000;7.5;954
+"Angela's Ashes";1999;145;25000000;6.8;4347
+"Writer's Block";2003;23;1200;7.2;29
+"Breed, The";2001;91;4000000;4.7;582
+"Party, The";1968;99;1500000;7.4;4235
+"Voice Inside, The";2001;13;1000;8.9;8
+"Fan, The";1996;114;55000000;5.4;6920
+"Swimming with Sharks";1994;101;700000;7.1;4837
+"Fritz the Cat";1972;80;1000000;5.8;1109
+"Friday After Next";2002;85;20000000;4.9;1659
+"Wong Fei-hung chi saiwik hung si";1997;102;12000000;6.2;433
+"Maltese Falcon, The";1941;101;300000;8.4;19444
+"Lady Windermere's Fan";1925;89;320000;7.8;77
+"Camp Slaughter";2004;95;350000;2;180
+"Life and Times of MC Beer Bong, The";2004;85;1000;8.8;6
+"Crime Partners 2000";2001;102;250000;4.4;57
+"Blanche Fury";1947;90;1500000;6.6;72
+"Daddy's Boys";1988;90;300000;2.7;6
+"One Rainy Afternoon";1936;94;511383;6;13
+"Truth or Dare? - A Critical Madness";1986;90;200000;4.7;85
+"Recess: School's Out";2001;82;10000000;6;512
+"Secret Journal of Benny Travis, The";2003;29;51000;8.6;140
+"In Person";1935;87;493000;6.1;47
+"Analyze This";1999;109;30000000;6.6;24521
+"Ghost and the Darkness, The";1996;109;55000000;6.4;8360
+"Everything in This Country Must";2004;20;250000;7.1;7
+"Utomlyonnye solntsem";1994;132;2800000;7.6;2173
+"Ed and His Dead Mother";1993;86;1800000;5.3;413
+"Rush Hour 2";2001;86;90000000;6.5;16581
+"Jackpot";2001;97;400000;5.2;213
+"Good Will Hunting";1997;126;10000000;7.8;60858
+"Frankenfish";2004;84;3000000;4.6;309
+"Passion of the Christ, The";2004;127;30000000;7.4;34046
+"Cimarron";1931;131;1433000;6.2;319
+"Hairspray";1988;92;2000000;6.6;2752
+"From Here to Eternity";1953;118;1650000;7.9;5995
+"Joe";1970;102;106000;6.6;361
+"Teenage Mutant Ninja Turtles II: The Secret of the Ooze";1991;88;25000000;4.6;3429
+"Montana";1998;92;4000000;6.1;417
+"Jimmy Show, The";2001;99;1000000;4.6;145
+"Deep Blue";2003;91;5000000;7.2;363
+"Apartment, The";1960;125;3000000;8.4;11214
+"Rock 'n' Roll Frankenstein";1999;88;250000;4.3;66
+"Mrs. Winterbourne";1996;105;25000000;5.8;1310
+"Spanish Judges";1999;98;3500000;4.8;178
+"1776";1972;180;4000000;7.3;1754
+"Black Rain";1989;125;14000000;6.3;5636
+"Codename: Simon";2004;10;50000;9.2;22
+"Puzzle, The";2000;22;1500;8.5;10
+"My Family";1995;128;5500000;7;859
+"Braveheart";1995;177;53000000;8.3;92437
+"Antony and Cleopatra";1972;160;1600000;4.9;84
+"Gojira";1954;98;1000000;6.9;1106
+"Save the Last Dance";2001;112;13000000;6.1;7613
+"Twilight People, The";1973;84;150000;3.1;43
+"Central Airport";1933;72;356000;5.3;44
+"Son";2002;125;2000000;4.2;33
+"Face to Face";2003;92;8000;6;9
+"Wolf Creek";2005;95;1000000;4.8;33
+"Treasure of the Sierra Madre, The";1948;126;3800000;8.4;10470
+"Track 29";1988;90;5000000;5.5;417
+"Grey Owl";1999;118;30000000;5.7;629
+"Creepshow";1982;120;8000000;6;3687
+"Nymphoid Barbarian in Dinosaur Hell, A";1991;82;40000;2.2;196
+"Maniac Cop 2";1990;90;4000000;4.4;360
+"Last Chair";2003;30;25000;9;12
+"I'll Remember April";1999;90;1800000;6.2;222
+"Muertos de risa";1999;111;3500000;6.3;334
+"Finders Keepers, Lovers Weepers!";1968;71;82000;4;69
+"Cold Heart";2001;95;3000000;4.1;140
+"Moonlight Resurrection";1988;11;25000;2;6
+"Anthrax";2001;90;2500000;4.1;49
+"Cider House Rules, The";1999;126;24000000;7.5;18950
+"90";2005;14;4000;9.1;10
+"No Looking Back";1998;96;5000000;5.6;622
+"Miller's Crossing";1990;115;14000000;8;14575
+"Film School Confidential";2002;82;75000;6.4;17
+"Exorcist: The Beginning";2004;114;30000000;5;4130
+"Roberta";1935;106;610000;6.9;260
+"Panama Hattie";1942;79;1097907;6.2;51
+"Vertigo";1958;129;2479000;8.5;33875
+"Malibu's Most Wanted";2003;86;16000000;4.9;2099
+"Edge of Eternity";1959;80;700000;5.8;44
+"Hunter, The";1980;97;8000000;5.8;559
+"Rabbit-Proof Fence";2002;94;6000000;7.7;5079
+"Man on the Moon";1999;118;52000000;7.3;19826
+"Cinderella";1950;74;2900000;7.3;5596
+"Charlie Chan in Paris";1935;72;110000;7;199
+"Love Me Tender";1956;89;1000000;5.6;442
+"Mission: Impossible";1996;110;75000000;6.6;33496
+"Liberata Me";2002;27;66000;6.7;15
+"Beautiful Mind, A";2001;135;60000000;7.8;43291
+"Importance of Being Earnest, The";2002;97;15000000;6.8;3598
+"Prophecy, The";1995;98;8000000;6.4;4148
+"Pygmalion";1938;89;350000;7.7;887
+"Crimen del padre Amaro, El";2002;118;1800000;7;2469
+"Meet the Fockers";2004;115;80000000;6.5;11950
+"Circle of Iron";1978;102;4000000;5.2;376
+"Max Keeble's Big Move";2001;86;12000000;5.3;587
+"Oblivion";1994;94;2500000;4.2;188
+"Criminal, The";1960;97;200000;6.7;70
+"Boiler Room";2000;118;9000000;6.8;8586
+"Trance";1998;94;4000000;3.9;392
+"University Heights";2004;95;10000;7.9;30
+"My Boss's Daughter";2003;90;14000000;4.1;2765
+"Cat's Eye";1985;94;7000000;5.7;2301
+"Newsies";1992;121;15000000;5.7;2997
+"Beetle Juice";1988;92;15000000;7.1;20966
+"Fortune Cookie, The";1966;125;3705000;7.4;1504
+"Deuces Wild";2002;100;10000000;5.3;1511
+"Contender, The";2000;126;9000000;6.9;7023
+"Halloween: Resurrection";2002;89;15000000;4.3;4323
+"Boys Beware";1961;10;1000;4.2;21
+"Bluefish";2003;24;7000;7.6;5
+"Date, The";2004;12;3000;9.2;11
+"Excessive Force";1993;90;13000000;4.2;214
+"What Did You Do in the War, Daddy?";1966;116;7000000;6.1;204
+"Roadside Convenience";2003;15;1000;7.6;6
+"Robin and Marian";1976;106;5000000;6.6;1703
+"Brown Bunny, The";2003;119;10000000;5.1;1045
+"It's Impossible to Learn to Plow by Reading Books";1988;85;3000;5.2;58
+"Creepshow 2";1987;92;3500000;4.9;1524
+"Terrorists";2004;72;80000;9.4;9
+"Adventures of Bob & Doug McKenzie: Strange Brew, The";1983;90;4000000;6.6;4556
+"Blair Witch Project, The";1999;86;35000;6.1;39814
+"Inseminoid";1981;93;2000000;2.8;248
+"Boys Don't Cry";1999;118;2000000;7.6;14456
+"Donnie Brasco";1997;127;35000000;7.6;20029
+"Spy Kids 2: Island of Lost Dreams";2002;99;39000000;5.8;3175
+"Curse of El Charro, The";2004;90;200000;6;29
+"Limbo";1999;126;8300000;7.1;2063
+"Everything's Gone Green";2005;19;30000;9;11
+"English Patient, The";1996;160;27000000;7.1;25210
+"Her Urge";2000;15;20000;5.5;11
+"Masters of the Universe";1987;106;17000000;4.4;3288
+"Sphere";1998;134;80000000;5.3;12990
+"Mean People Suck";2003;8;10000;4.7;48
+"Myra Breckinridge";1970;91;5000000;4;431
+"Curiosity & the Cat";1999;80;45000;4.1;46
+"Barbarian and the Geisha, The";1958;105;3500000;4.7;226
+"Killer Eye, The";1999;72;400000;2.2;210
+"George and the Dragon";2004;93;32000000;5.5;137
+"Tusk";1980;119;1500000;5;25
+"Betrayal";2003;90;750000;4.7;157
+"Bean Cake";2001;12;12000;6.8;36
+"Great Race, The";1965;160;12000000;6.9;2248
+"Sumas y restas";2004;109;1500000;6;12
+"Bill & Ted's Excellent Adventure";1989;90;10000000;6.6;12277
+"I'll Be Seeing You";1945;85;3250000;6.8;130
+"Robinson Crusoe on Mars";1964;110;1200000;6.6;657
+"Naken";2000;94;25000;4.8;420
+"Tall Tale";1995;98;32000000;4.8;383
+"Eighteenth Angel, The";1998;95;25000000;4.6;557
+"Dementia 13";1963;75;30000;5.4;641
+"Debtors, The";1999;90;14000000;6.9;38
+"Cherish";2002;99;1500000;6.5;743
+"Is It True What They Say About Ann?";2004;40;5000;7.3;25
+"Master and Commander: The Far Side of the World";2003;138;150000000;7.5;21328
+"Full Monty, The";1997;91;3500000;7.2;22115
+"Here Comes the Groom";1951;113;2117000;5.2;117
+"Conqueror, The";1956;111;6000000;3.3;364
+"Star Wars: Episode II - Attack of the Clones";2002;120;120000000;7;63889
+"Killer Shrews, The";1959;69;123000;3.3;403
+"Timeline";2003;116;80000000;5.2;5803
+"Resident Evil";2002;100;35000000;6.2;18978
+"Bulletproof";1988;93;5000000;3.8;155
+"Zephyr";2003;28;28000;7.7;15
+"Flesh";1968;105;4000;5.7;287
+"Free Money";1998;91;30000000;4.7;619
+"Beat the Drum";2003;114;1500000;7;26
+"Air Bud";1997;98;3000000;4.7;1276
+"Robo Vampire";1988;90;2500000;1.8;90
+"Shrek";2001;90;60000000;8;65146
+"Central do Brasil";1998;108;2900000;7.9;8980
+"At Long Last Love";1975;105;6000000;4.3;193
+"Born Losers, The";1967;113;360000;5.4;223
+"Clearing the Range";1931;61;60000;4.5;6
+"State's Evidence";2004;89;400000;7;12
+"Afterschool Delight";2003;10;5000;6.3;5
+"Luz prodigiosa, La";2003;108;2000000;7;44
+"Shanghai Surprise";1986;97;17000000;2.8;836
+"Fando y Lis";1967;93;100000;6.6;218
+"Intolerable Cruelty";2003;100;60000000;6.6;11967
+"Killer Bean 2: The Party";2000;7;2800;7;110
+"Mix Tape";2003;97;15000;7.7;7
+"Near Dark";1987;90;5000000;7;3288
+"Your Face";1987;3;2000;7.6;111
+"How Green Was My Valley";1941;118;1250000;7.9;2662
+"Merchant of Venice, The";2004;138;30000000;7.3;1400
+"Something Weird";1967;80;35000;3.1;63
+"Midnight Express";1978;121;2300000;7.6;7617
+"Combat Shock";1986;92;40000;5.6;237
+"Bless the Child";2000;107;40000000;5;3814
+"Dong er shi er tiao";1997;14;2000;3.7;10
+"Man with a Plan";1996;89;100000;7.1;68
+"Liberty Bound";2004;90;100000;4.7;60
+"Giant";1956;201;5400000;7.5;4210
+"Ella Enchanted";2004;96;35000000;6.5;2502
+"Petit soldat, Le";1963;88;180000;7.1;358
+"Red Ribbon Blues";1996;97;3000000;4.5;38
+"Rogue Trader";1999;101;12800000;6.1;1379
+"Monsieur Verdoux";1947;114;2000000;7.5;1254
+"Take a Giant Step";1959;100;300000;5.6;6
+"Hardware";1990;93;1500000;5.2;1323
+"Drop Zone";1994;101;45000000;5.5;3104
+"Dodgeball: A True Underdog Story";2004;92;20000000;6.6;14584
+"Control de plagas";2004;14;5000;8.1;10
+"Nochnoy dozor";2004;115;4200000;6.3;1020
+"Solstice";1994;48;130000;5.1;9
+"Trader Horn";1931;122;1320000;6.8;83
+"Parnell";1937;118;1547000;4.5;53
+"Wedding Toast, The";2003;30;22000;8.8;5
+"P.S. Your Cat Is Dead";2002;88;2000000;4.7;185
+"Return to Never Land";2002;72;20000000;5.8;988
+"Lemony Snicket's A Series of Unfortunate Events";2004;108;125000000;6.7;8402
+"Gone in Sixty Seconds";2000;117;90000000;5.7;25400
+"K-19: The Widowmaker";2002;140;100000000;6.6;8292
+"Red Rock West";1992;98;8000000;7;3861
+"Punch-Drunk Love";2002;95;25000000;7.5;18169
+"Mercy";2003;112;5000;5.8;6
+"Gypsy";1962;143;4000000;7.1;675
+"Man on Fire";2004;146;70000000;7.4;14358
+"Ernest Saves Christmas";1988;95;6000000;4.6;1125
+"Snow White and the Three Stooges";1961;107;3500000;4.1;174
+"Sweet Hideaway";2003;96;350000;1.9;13
+"Growin' a Beard";2003;29;10000;8.7;7
+"Cleopatra";1917;125;500000;9.3;25
+"Secret Cinema, The";1968;30;5000;7.7;22
+"Ring, The";2002;115;45000000;7.4;30687
+"Van Helsing";2004;132;160000000;5.4;19787
+"Congo";1995;109;50000000;4.4;8058
+"Great Train Robbery, The";1903;12;0;7.4;849
+"Sylvia Scarlett";1935;95;1000000;6;411
+"How to Live with a Vegan Without Killing Them";2004;84;330000;5.5;10
+"Daylight";1996;110;80000000;5.4;6979
+"Amadeus";1984;180;18000000;8.3;36955
+"Sweet Angel Mine";1996;88;5000000;5.3;119
+"New York Stories";1989;124;15000000;6.1;2699
+"Wedding Date, The";2005;90;15000000;5;953
+"Jack and the Beanstalk";1952;78;683000;5.2;268
+"Just Visiting";2001;93;40000000;5.6;2212
+"Anima";2003;26;50000;7.9;12
+"Empire";2002;90;3500000;6;1718
+"Sorority House Vampires";1998;86;50000;1.8;83
+"Words and Music";1948;120;2799970;5.9;148
+"Dead Poets Society";1989;128;16400000;7.7;43294
+"Blue in the Face";1995;83;2000000;6.4;2306
+"Seven Sinners";1940;87;760000;6.4;171
+"Incredibly Strange Creatures Who Stopped Living and Became Mixed-Up Zombies!!?, The";1964;82;38000;2.2;695
+"Thomas and the Magic Railroad";2000;85;19000000;4.2;364
+"Commandments";1997;88;5000000;5.4;468
+"Alan Smithee Film: Burn Hollywood Burn, An";1997;86;10000000;3.2;1262
+"Alpha Dead";2004;11;5000;8;6
+"Victim, The";2004;16;15000;9.8;5
+"Light in the Piazza";1962;102;553280;6.5;162
+"Great Dictator, The";1940;124;2000000;8.4;10465
+"Oblong Box, The";1969;91;175000;5.6;287
+"Red Planet";2000;106;75000000;5.3;8623
+"Sound of Music, The";1965;174;8200000;7.8;20641
+"Grosse Pointe Blank";1997;107;15000000;7.4;20400
+"Tucker: The Man and His Dream";1988;110;25000000;6.8;2944
+"In the Line of Fire";1993;138;40000000;7.3;12923
+"Guy Thing, A";2003;101;20000000;5.3;2885
+"Bad Boy Bubby";1993;112;750000;7;1033
+"Daddy and Them";2001;101;4000000;5;364
+"Alice";1990;102;12000000;6.4;1706
+"Last Picture Show, The";1971;118;1300000;8;5340
+"Ghost Town";1956;77;100000;4.5;10
+"Thank God He Met Lizzie";1997;91;2500000;5.9;196
+"One Exciting Night";1922;128;267000;4.6;8
+"Chain of Fools";2000;96;20000000;6.1;845
+"Pet Sematary II";1992;96;8000000;3.7;1979
+"I Cover the War";1937;68;70000;3.4;22
+"Blacktop";2000;100;3500000;4.7;192
+"Color of Money, The";1986;119;10000000;6.8;9095
+"Perfect Storm, The";2000;130;120000000;6.2;24946
+"Ehad Mishelanu";1989;110;500000;7.1;30
+"Man Who Would Be King, The";1975;129;8000000;7.9;8035
+"Saints and Soldiers";2003;90;780000;6.9;689
+"Bad Girls from Mars";1991;86;52000;3.7;50
+"Fortress";1993;95;12000000;5.3;2577
+"Hart's War";2002;125;70000000;6.2;6368
+"Cliffhanger";1993;112;65000000;6;12434
+"She Done Him Wrong";1933;66;200000;6.8;512
+"Gamers, The";2003;15;9000;7.1;13
+"Unfaithful";2002;125;50000000;6.6;8713
+"Silence of the Lambs, The";1991;118;19000000;8.5;92060
+"Sparrows";1926;84;463455;7.4;119
+"Phantasm III: Lord of the Dead";1994;91;2500000;4.8;608
+"Searching for Debra Winger";2002;97;600000;5.6;301
+"At Night with No Curtains";2004;87;8000;2.7;23
+"Varsity Blues";1999;100;16000000;6;7974
+"Phantasm IV: Oblivion";1998;90;650000;4.5;492
+"Day of the Dead";1985;97;3500000;6.5;5053
+"Last Days of Pompeii, The";1935;96;1000000;6.5;106
+"Destino";2003;7;1500000;7.8;156
+"Stakeout on Dope Street";1958;89;35000;7;9
+"Bread, My Sweet, The";2001;105;600000;6.8;257
+"Tarzan and the Mermaids";1948;68;1000000;5.5;177
+"Voodoo Woman";1957;75;65000;3.3;51
+"Galaxy Quest";1999;102;45000000;7.2;22341
+"Topo, El";1970;125;400000;7.3;1008
+"Moonlight Mile";2002;117;20000000;6.9;3479
+"Taste of Blood, A";1967;117;65000;2.4;44
+"Caged Heat";1974;83;180000;4.9;295
+"Book of Mormon Movie, Volume 1: The Journey, The";2003;120;2000000;3.4;142
+"Pulp Diction";2003;1;1000;6.5;14
+"Life of Jimmy Dolan, The";1933;89;202000;5.4;36
+"Sahara";1983;111;25000000;3.5;157
+"Space-Thing";1968;69;17500;3.5;26
+"xXx";2002;132;85000000;5.5;18514
+"Rainmaker, The";1997;135;40000000;6.8;8620
+"Company Jasmine";2001;55;150000;8.4;47
+"Untold, The";2002;92;3000000;3.8;400
+"Trotsky";1993;98;1500000;4.3;8
+"Morphin(e)";2005;20;8000;9.7;7
+"Hitchhiker's Guide to the Galaxy, The";2005;110;50000000;6.9;7644
+"Freddy Got Fingered";2001;87;15000000;3.5;9115
+"Milky Way, The";1936;89;1032000;6.9;151
+"Norma's Lament";1997;34;25000;2.8;16
+"Great Lengths";2004;20;25000;7;5
+"Jeepers Creepers";2001;90;10000000;5.4;10973
+"First Love, Last Rites";1997;94;300000;5;147
+"Street Pirates";1994;94;650000;8.2;111
+"House of the Spirits, The";1993;146;40000000;6.3;3205
+"Stanley and Livingstone";1939;101;2000000;7.2;175
+"Bullets Over Broadway";1994;98;20000000;7.4;6685
+"Easy Rider";1969;94;340000;7.2;10230
+"She Wore a Yellow Ribbon";1949;103;1600000;7.5;2242
+"Naked Gun 33 1/3: The Final Insult";1994;83;30000000;5.8;8918
+"Goldwyn Follies, The";1938;120;1800000;5.2;61
+"Jurk, De";1996;95;2650000;6.8;274
+"Terror Train";1980;97;3500000;5.2;567
+"Sweepers";1999;93;12500000;3.9;276
+"Rave Macbeth";2001;87;3500000;6.2;67
+"Vanishing Point, The";1998;14;2000;9;6
+"Zar Gul";1995;140;1700000;6.8;6
+"Demonium";2001;85;2200000;3.7;55
+"Lethal Weapon";1987;117;15000000;7.5;20041
+"Good Man in Africa, A";1994;94;20000000;4.6;473
+"Parents";1989;81;3000000;5.9;625
+"Jungle Princess, The";1936;85;300000;7.2;22
+"Love Letters";1984;98;550000;6.1;158
+"Arch of Triumph";1948;133;5000000;5.6;169
+"Deep Blue Sea";1999;105;78000000;5.5;17666
+"My Big Fat Greek Wedding";2002;95;5000000;6.9;21675
+"Trio";2003;102;1200000;4.7;18
+"Rich Kids";1979;96;2500000;5.6;84
+"Hometown Legend";2002;108;2000000;4.6;186
+"National Treasure";2004;131;100000000;6.6;12361
+"Undisputed";2002;96;20000000;5.6;1769
+"Radio";2003;109;35000000;6.9;3594
+"Citizen Shane";2004;59;4000;5;10
+"Basic Instinct";1992;128;49000000;6.7;19520
+"My Samurai";1992;87;700000;3.8;20
+"Xanadu";1980;93;20000000;4.4;2201
+"Close Encounters of the Third Kind";1977;137;20000000;7.7;26304
+"Ali";2001;165;107000000;6.4;9294
+"Barn Dance, The";1929;7;5121;5.9;22
+"Shadow Conspiracy";1997;103;45000000;4.5;1078
+"Nurse Betty";2000;110;24000000;6.6;10441
+"Made Incorrect";2002;18;25000;8.2;6
+"Best Foot Forward";1943;94;1125502;6.2;97
+"Baby Face";1933;71;187000;6.4;260
+"Play It to the Bone";1999;124;24000000;5.1;2645
+"Lethal Weapon 4";1998;127;140000000;6.3;17758
+"Trauma";1962;93;69000;4.4;6
+"Mysterious Island, The";1929;95;1130000;5.9;51
+"Die Hard 2";1990;124;70000000;6.7;22987
+"Meili xin shijie";1999;100;300000;5.3;40
+"Princess Diaries 2: Royal Engagement, The";2004;115;40000000;5.3;2605
+"Holiday Inn";1942;100;3200000;7.4;1252
+"Dagon";2001;97;4800000;6;1549
+"Maniac Cop";1988;85;1100000;5;709
+"Core, The";2003;135;74000000;5.4;7860
+"Dracula 2000";2000;99;28000000;4.9;5364
+"I Inside, The";2003;90;8800000;6;734
+"Way of the Vampire";2005;90;1000000;3;16
+"Broken Hearts Club: A Romantic Comedy, The";2000;94;1000000;6.8;1712
+"Dante's Inferno";1935;88;748900;6.6;80
+"Spirit of St. Louis, The";1957;135;6000000;7.1;1007
+"Lights of New York";1928;57;75000;5;61
+"He Got Game";1998;137;25000000;6.6;4198
+"Highway to Hell";1992;94;9000000;5.3;423
+"Sleepaway Camp";1983;84;350000;5.3;1104
+"Misfits, The";1961;120;4000000;7.3;1905
+"Ginger Snaps: Unleashed";2004;94;3500000;6.6;1118
+"Hungry Wives";1973;89;120000;4.6;202
+"Black Legion";1937;83;235000;6.8;218
+"Golden Bowl, The";2000;130;15000000;6;1145
+"What's Eating Gilbert Grape";1993;118;11000000;7.6;16345
+"Rugrats Movie, The";1998;79;28000000;5.4;1455
+"Urban Legend";1998;99;14000000;5.1;8245
+"Double Jeopardy";1999;105;40000000;5.9;13587
+"Below the Belt";2004;95;1500000;7.9;15
+"Rain People, The";1969;101;750000;6.7;319
+"Riding the Bullet";2004;98;5000000;5.2;438
+"Poltergeist II: The Other Side";1986;130;19000000;4.9;2482
+"Frame of Mind";2003;20;30000;7;6
+"Tron";1982;96;17000000;6.4;9084
+"Cradle 2 the Grave";2003;101;25000000;5.3;4164
+"Where the Money Is";2000;89;18000000;6.2;1461
+"Captured!";1933;69;245000;6;36
+"Lionheart";1990;105;2500000;5.1;2123
+"Missy";2001;71;5000;9.6;19
+"Flossin";2001;81;86000;7.9;7
+"Vacant Lot";2000;108;75000;6.1;12
+"Zero Effect";1998;116;5000000;7;4820
+"80's Ending";2003;9;10000;8.3;15
+"Stark Raving Mad";2002;102;5000000;6.2;601
+"Set It Off";1996;123;9000000;6.1;1619
+"Las Vegas Weekend";1986;83;2000000;1.1;10
+"Hunchback of Notre Dame, The";1923;98;1250000;7.4;414
+"Speed";1994;116;28000000;7.1;32979
+"Rear Window";1954;112;2000000;8.7;41035
+"Aladdin";1992;90;28000000;7.6;22499
+"My Cousin Vinny";1992;120;11000000;7.2;10877
+"I Heart Huckabees";2004;106;22000000;7;7262
+"Big Bully";1996;90;15000000;4.2;781
+"Yerma";1999;118;1670000;5.5;38
+"Bottle and the Throttle, The";1968;10;1000;3.8;7
+"Sugar & Spice";2001;84;11000000;5.3;2901
+"Trouble with Harry, The";1955;99;1200000;7.3;3674
+"Born to Be Bad";1934;62;252238;5.6;59
+"Assisted Living";2003;78;500000;7.4;56
+"Heat and Sunlight";1987;98;90000;5.1;18
+"David Nelson Live";2000;42;0;9.7;6
+"Borrowers, The";1997;89;29000000;5.6;1457
+"For Love of the Game";1999;137;50000000;6.1;5782
+"Conquest of the Planet of the Apes";1972;88;1700000;5.5;2255
+"Guerra de Canudos";1997;170;6000000;7.5;126
+"Down and Out with the Dolls";2001;88;1200000;6;37
+"Dr. Jekyll and Mr. Hyde";1931;96;1140000;7.6;1018
+"Petite morte, La";2003;41;55000;7;10
+"Gojira ni-sen mireniamu";1999;99;1000000;5.6;1150
+"Hocus Pocus";1993;96;28000000;5.3;3256
+"25 Watts";2001;92;200000;7;275
+"Friday the 13th Part 3: 3D";1982;91;4000000;4.3;3239
+"Santos peregrinos";2004;94;900000;4.5;20
+"55 Days at Peking";1963;150;17000000;6.6;700
+"Forever Amber";1947;138;6000000;6.5;149
+"Gold Raiders";1951;56;50000;5.5;16
+"It's Always Fair Weather";1955;102;2062256;7;324
+"Purple Rose of Cairo, The";1985;84;15000000;7.5;5273
+"Pirates of the Caribbean: The Curse of the Black Pearl";2003;143;125000000;8;60812
+"Bridge on the River Kwai, The";1957;161;3000000;8.4;22408
+"Girl 6";1996;108;12000000;5;1453
+"Fall";1997;93;1000000;5.1;495
+"Madness and Genius";2003;103;19000;6.4;20
+"Paparazzi";2004;84;20000000;5.6;2028
+"Perfect Sense";2003;18;2100;8.3;6
+"Versace Murder, The";1998;91;4000000;3.6;71
+"Evita";1996;134;55000000;6.2;8371
+"Sorte Nula";2004;85;150000;7.3;134
+"Detective Fiction";2003;102;200000;4.9;41
+"2001: A Space Odyssey";1968;156;10500000;8.3;64982
+"8MM";1999;123;40000000;5.9;18541
+"She Had to Say Yes";1933;65;111000;6;42
+"Princess Diaries, The";2001;114;37000000;6;6892
+"Rumble Fish";1983;94;10000000;6.8;3354
+"Donovan's Reef";1963;109;2686585;6.5;1062
+"Halloween II";1981;90;2500000;5.7;5157
+"Akasha";2001;82;1500;7.3;29
+"Hard to Handle";1933;78;189000;6.9;60
+"Day of the Animals";1977;97;1200000;4.2;158
+"That Cold Day in the Park";1969;113;500000;6.2;106
+"Anacondas: The Hunt for the Blood Orchid";2004;97;25000000;4.2;2258
+"Those Magnificent Men in Their Flying Machines, or How I Flew from London to Paris in 25 hours 11 minutes";1965;138;5600000;6.7;1064
+"Eban and Charley";2000;86;30000;4.5;110
+"Sweet Charity";1969;154;20000000;6.8;640
+"Hunting Camp";2005;38;4000;8.1;13
+"Vor";1997;110;2000000;7.2;841
+"Freedom Downtime";2001;121;25000;8;236
+"Bruce Almighty";2003;101;81000000;6.4;23905
+"Edges of the Lord";2001;95;7500000;7;639
+"Scene Stealers";2004;99;75000;8.6;14
+"Undead, The";1957;71;70000;3.8;261
+"Notebook, The";2004;123;30000000;7.8;8830
+"Hot Touch, The";1982;93;4700000;4.8;13
+"Story of Alexander Graham Bell, The";1939;98;1500000;7.2;141
+"Wild Horse";1931;77;60000;5.7;10
+"Mondo Topless";1966;60;12000;3.9;117
+"Everlasting Piece, An";2000;103;14000000;6.1;475
+"Good Boy!";2003;88;18000000;4.7;683
+"Country Bears, The";2002;88;35000000;3.7;664
+"Suspect Zero";2004;99;27000000;5.7;1310
+"D.I.Y. or Die: How to Survive as an Independent Artist";2002;55;5000;9.4;10
+"Friday";1995;91;3500000;6.7;7020
+"Someone Like You...";2001;97;23000000;5.7;4249
+"In the Cut";2003;119;12000000;5.1;4525
+"Women in Love";1969;131;1600000;7.2;817
+"Real Cancun, The";2003;96;8000000;2.8;1504
+"Claustrophobia";2003;79;114000;4.2;90
+"Venus in Furs";1967;65;8500;2.1;8
+"Incident at Loch Ness";2004;94;1400000;6.4;251
+"Spinal Tap: The Final Tour";1998;20;50000;6.6;5
+"Standing by Yourself";2002;65;1000;9.1;8
+"Four Weddings and a Funeral";1994;117;6000000;7.2;17820
+"American Pie 2";2001;105;30000000;6.3;22752
+"Macabre";1958;72;150000;5.5;58
+"Kissin' Cousins";1964;96;800000;4.3;262
+"You're a Big Boy Now";1966;96;800000;6.3;260
+"1941";1979;146;35000000;5.6;5536
+"Far from India";2003;101;10000;6.1;13
+"Bride of the Wind";2001;99;12000000;5.2;201
+"Biohazard";1984;84;250000;3.2;40
+"Banger Sisters, The";2002;98;10000000;5.6;3189
+"Triggermen";2002;96;12000000;5.8;317
+"Space Jam";1996;87;80000000;5.2;7995
+"Any Number Can Play";1949;112;1465641;6.3;67
+"Clash of the Titans";1981;118;15000000;6.3;3860
+"Busting Out";2004;57;100000;9.4;5
+"Losing Isaiah";1995;111;17000000;6.1;794
+"Geronimo: An American Legend";1993;115;50000000;6.2;1233
+"Optimistic";2002;9;0;8.1;7
+"Ocean Tribe";1997;106;380000;6.3;60
+"Blood Money";1933;65;238591;7.6;20
+"Pocketful of Miracles";1961;136;2900000;7.1;760
+"Kiss of the Tarantula";1976;85;200000;3.8;22
+"Wolf Man, The";1941;70;180000;7.4;1582
+"Drive-in Movie Memories";2001;57;225000;8.3;6
+"Spacehunter: Adventures in the Forbidden Zone";1983;90;14400000;4.2;706
+"American Jedi";2002;8;2000;7.9;9
+"Man From Planet X, The";1951;70;50000;5.6;219
+"Jerry Maguire";1996;139;50000000;7.3;34623
+"You Only Live Once";1937;86;575000;7.6;364
+"Road Trip";2000;94;15600000;6.3;15981
+"Cat's-Paw, The";1934;102;617000;6.8;93
+"Mind's Eye, The";2005;96;750000;6.7;7
+"Summer Sonata, A";2004;30;2000;10;5
+"Wonder Boys";2000;111;35000000;7.6;15668
+"Few Good Men, A";1992;138;33000000;7.5;25237
+"Choosing Matthias";2001;90;2500000;4.9;22
+"Man of Conquest";1939;105;1000000;6.8;26
+"Attic Expeditions, The";2001;100;1000000;5.4;384
+"Red Dragon";1945;64;75000;5.5;29
+"Marilyn's Man";2004;92;825000;7.6;24
+"Running Out";2001;97;50000;7.6;73
+"Issues 101";2002;90;75000;3.6;74
+"From Dusk Till Dawn";1996;108;20000000;6.8;28473
+"Portal: The Movie";2003;29;15000;8.4;5
+"Ocean's Eleven";2001;116;85000000;7.5;44662
+"Spanglish";2004;130;80000000;6.7;4698
+"Spider-Man 2";2004;127;200000000;7.9;40256
+"Good Morning... and Goodbye!";1967;80;55000;3.5;53
+"Confessions of a Dangerous Mind";2002;113;29000000;7.1;11487
+"Woman of Paris, A";1923;93;351000;7.3;351
+"Custodial Code, The";2003;15;12000;9.7;7
+"P.I. Blues";2003;101;95000;7.6;5
+"Gigi";1958;119;3319355;7;1956
+"Almost Famous";2000;162;60000000;8;38648
+"Hucksters, The";1947;115;2300000;6.4;189
+"Desecration";1999;88;150000;4.3;97
+"Tart";2001;94;3300000;4.6;714
+"Napoleon Dynamite";2004;86;400000;7.2;17524
+"Aristocats, The";1970;78;4000000;6.6;2972
+"Standalone";2005;108;245000;7.3;10
+"Requiem for a Dream";2000;102;4500000;8.4;47845
+"Alamo, The";1960;192;12000000;6.6;2083
+"Witchboard III: The Possession";1995;93;2000000;3.4;114
+"Return of the Fly";1959;80;225000;5.2;402
+"Moon Zero Two";1969;100;2000000;3.9;118
+"In Their Absence";2003;8;3500;9.6;7
+"Barbershop";2002;102;12000000;6.6;4943
+"Accident";1967;105;600000;7.1;340
+"Don't Look Back!";2003;89;2300000;1.3;10
+"Boom";1968;110;10000000;4;166
+"Freaks";1932;64;310607;7.7;4134
+"Gray's Anatomy";1996;80;350000;7;337
+"Code 46";2003;92;7500000;6.4;2094
+"Turkey Shoot";1981;80;3200000;4.2;167
+"Kingdom of the Spiders";1977;97;500000;5.4;484
+"Akumulator 1";1994;102;2000000;7.1;272
+"Long Kiss Goodnight, The";1996;120;65000000;6.5;12516
+"Day of the Fight";1951;16;3900;6.1;272
+"Mask, The";1961;83;250000;4.3;87
+"Diner";1982;110;5000000;7.2;3250
+"Rainbow Thief, The";1990;87;10000000;6;49
+"Loss of Sexual Innocence, The";1999;106;4000000;5.3;977
+"Down Time";2001;90;20000;3.5;55
+"Bullet for Pretty Boy, A";1970;89;350000;3.5;31
+"Octane";2003;91;11500000;4.4;355
+"Covered Wagon, The";1923;98;782000;7.9;49
+"Hearts in Atlantis";2001;101;31000000;6.7;6577
+"Different Loyalty, A";2004;96;13000000;5;135
+"Indiana Jones and the Temple of Doom";1984;118;28000000;7.2;34880
+"Interstate 60";2002;116;7000000;7.7;2495
+"Modern Vampires";1998;91;2000000;4.1;700
+"La Cucaracha";1934;20;50000;6.2;21
+"My Own Private Idaho";1991;102;2500000;6.7;5619
+"Rembrandt";2003;109;3000000;6.8;416
+"Madonna: Truth or Dare";1991;114;4500000;5.5;2660
+"Working Man, The";1933;78;199000;7.7;110
+"Mother Night";1996;114;5500000;7.1;1232
+"Twelve Steps Outside";2002;88;25000;8.3;7
+"NeverEnding Story II: The Next Chapter, The";1990;89;36000000;4.3;1873
+"Chandu the Magician";1932;71;349456;5.7;74
+"Crutch";2004;88;500000;6.2;12
+"Lady from Shanghai, The";1947;79;2000000;7.6;2377
+"Misery";1990;107;20000000;7.5;13120
+"Last Time I Committed Suicide, The";1997;92;4000000;5.3;530
+"Star Wars";1977;125;11000000;8.8;134640
+"Are You Popular?";1947;10;11000;4.3;18
+"Heartbeeps";1981;79;10000000;4.2;234
+"Bottomfeeders";2001;92;500000;7.4;7
+"Weight of Water, The";2000;113;16000000;6;1742
+"Being Julia";2004;104;18000000;7.2;1671
+"Shadows Over Chinatown";1946;64;75000;6;24
+"Liar Liar";1997;86;45000000;6.5;22969
+"John Goldfarb, Please Come Home";1965;96;4000000;4.8;170
+"Lady and the Tramp";1955;75;4000000;7.4;6952
+"Guyver: Dark Hero";1994;127;900000;4.9;283
+"Cabin Fever";2002;93;1500000;5.1;7776
+"League of Extraordinary Gentlemen, The";2003;110;78000000;5.4;15647
+"Sex, Lies, and Videotape";1989;100;1200000;7.1;7461
+"And Baby Makes Three";1949;84;700000;5.3;22
+"Food of the Gods II";1989;91;3500000;1.9;173
+"Drowning";2001;7;0;5;11
+"Cold Dog Soup";1990;100;7000000;4.6;136
+"Elmer Gantry";1960;146;3000000;7.8;1771
+"Belly";1998;96;10000000;4.5;1034
+"Children On Their Birthdays";2002;102;10000000;6;163
+"Return of the Living Dead, The";1985;91;4000000;6.7;3344
+"Puppet Master II";1991;88;780000;4.3;413
+"Serendipity";2001;90;28000000;6.6;10795
+"Grand Slam";1933;67;164000;5.4;41
+"Apollo 13";1995;140;62000000;7.5;41098
+"Ziegfeld Follies";1946;110;3240816;6.5;335
+"Fukkatsu no hi";1980;108;16000000;5.7;140
+"Anastasia";1997;94;53000000;6.5;4896
+"Sztuka spadania";2004;5;100000;7.6;68
+"Zabriskie Point";1970;95;7000000;6.4;1377
+"Straight to Hell";1987;86;1000000;4.9;464
+"Rare Birds";2001;99;5000000;6.4;471
+"Last Action Hero";1993;130;60000000;5.4;15266
+"Kiss & Tell";1996;96;1000000;5.7;68
+"Show Boat";1951;107;2295429;7;665
+"Grease";1978;110;6000000;6.8;22214
+"Nanny, The";1965;91;1300000;7.1;544
+"Heaven & Earth";1993;140;33000000;6.4;1987
+"Showboy";2002;93;300000;4.5;67
+"Derniers feux";2004;8;50000;9.7;6
+"Earthquake";1974;140;7000000;5.2;2106
+"Rats & Bullies";2004;102;120000;8.6;8
+"What Is Funny?";2004;10;30000;9.5;20
+"Sunday";1997;94;450000;7.1;249
+"Lucky Lady";1975;118;13000000;4.6;231
+"St. Valentine's Day Massacre, The";1967;100;1000000;6.1;380
+"Carefree";1938;83;1253000;7.1;306
+"Kalifornia";1993;118;9000000;6.6;8113
+"Two for the Road";1967;111;4000000;7.3;1251
+"Scene Smoking: Cigarettes, Cinema & the Myth of Cool";2001;59;145000;2.6;28
+"Bonnie and Clyde";1967;111;2500000;7.9;12653
+"Countess from Hong Kong, A";1967;120;3500000;5.4;449
+"Divine Secrets of the Ya-Ya Sisterhood";2002;116;27000000;5.5;4288
+"Legacy, The";1978;102;2500000;5;241
+"Arc";2004;30;9000;9.4;10
+"X";1963;79;250000;6.3;668
+"Scarlet Empress, The";1934;104;900000;7.5;579
+"State of the Union";1948;124;2600000;7.2;454
+"Fakers";2004;85;1800000;5.6;58
+"Tough Guys Don't Dance";1987;110;5000000;4.8;233
+"Mickey";1918;93;125000;7.1;18
+"Last Movie, The";1971;108;1000000;3.9;145
+"On a Clear Day You Can See Forever";1970;129;10000000;5.8;578
+"Laughing Dead";1998;85;200000;7.6;22
+"This Is Not a Love Story";2002;81;1000000;4.2;9
+"Winning New Hampshire";2004;45;15000;8.1;10
+"Out for a Kill";2003;88;20000000;3;818
+"Sum of All Fears, The";2002;123;68000000;6.6;15835
+"Twilight Zone: The Movie";1983;120;10000000;6;4458
+"D-Tox";2002;92;55000000;4.7;2742
+"Deadly Harvest";1977;87;250000;5;35
+"Committed";2000;98;3000000;5.2;739
+"Impostor";2002;102;40000000;5.8;3292
+"Oh My God";2004;10;3500;7.5;20
+"Birdy in the Cage";2003;9;2000;9;5
+"Umanoide, L'";1979;100;7000000;3.1;73
+"Shock Waves";1977;90;200000;5.4;429
+"Naked Prey, The";1966;96;900000;7.5;489
+"Hop-Along Cassidy";1935;60;85000;7.5;40
+"Titus Andronicus";2000;167;16000;3.3;11
+"American President, The";1995;114;62000000;6.9;11834
+"Strangers";2004;9;1000;9.7;6
+"Rugrats Go Wild!";2003;81;25000000;4.8;423
+"Right Stuff, The";1983;193;27000000;7.9;12907
+"Milking the Chicken";2003;35;1000;6.2;13
+"View to a Kill, A";1985;131;30000000;5.9;8478
+"Simply Irresistible";1999;94;6000000;4.7;3083
+"5 Dark Souls";1996;94;1500;7.3;11
+"Enraged New World, An";2002;50;3500;8.9;25
+"Black Cat, The";1934;65;95745;7.2;788
+"Pleasantville";1998;124;40000000;7.5;22561
+"Tigre de Santa Julia, El";2002;128;2000000;6.1;75
+"Time Walker";1982;83;750000;2.4;170
+"Ganz und gar";2003;95;1400000;8.2;114
+"Root of All Evil, The";2004;101;150000;6.6;5
+"Dersu Uzala";1975;141;4000000;8.1;2565
+"Barcelona";1994;101;3200000;6.6;1570
+"White Oleander";2002;109;16000000;6.9;4545
+"Choke";1999;98;550000;5.6;68
+"X2";2003;133;110000000;7.9;38191
+"First of May, The";1999;111;2500000;7.1;88
+"My Stepmother Is an Alien";1988;105;16000000;4.7;4080
+"Pocahontas";1995;81;55000000;5.7;6498
+"Rose, The";1979;125;8500000;6.6;1076
+"Going Greek";2001;90;198000;4.8;261
+"I Dreamed of Africa";2000;114;34000000;5.2;1113
+"Blood of the Beast";2003;74;2000;9.1;23
+"Lost Boundaries";1949;99;250000;6.9;15
+"Gigli";2003;121;54000000;2.3;11285
+"Sea Ghost";2004;90;1500000;3.7;10
+"Meet Me in St. Louis";1944;113;1707561;7.7;2480
+"Killers";1996;90;100000;6.3;219
+"War Effort, The";2003;106;15000;8.7;12
+"Clear and Present Danger";1994;141;65000000;6.8;13025
+"Boxcar Bertha";1972;92;600000;5.8;590
+"Veronika's Birthday";2004;39;15000;9.2;6
+"Final Fantasy: The Spirits Within";2001;106;137000000;6.5;16451
+"Route 666";2001;86;2300000;4;487
+"Nil by Mouth";1997;128;9000000;6.9;1159
+"Crew, The";2000;84;23000000;5.3;1297
+"Bronx Tale, A";1993;121;22000000;7.5;9175
+"Cabaret";1972;124;6000000;7.8;7176
+"Hour of the Gun";1967;100;1800000;6.4;235
+"Cherry Orchard, The";1999;141;5000000;6.4;127
+"Ulzana's Raid";1972;105;1200000;7;422
+"Count of Monte Cristo, The";2002;134;35000000;7.4;13907
+"Fear X";2003;91;6600000;5.9;742
+"Steaks, The";2000;107;1000;8.7;10
+"Kafka";1991;92;11000000;6.9;1751
+"2046";2004;129;12000000;7.6;2663
+"Clonus Horror, The";1979;90;350000;2.1;469
+"Robot Monster";1953;66;16000;2.4;723
+"Child Psychology";2004;14;7000;6.6;7
+"Painted Veil, The";1934;85;947000;6;85
+"Hell's Bloody Devils";1970;92;150000;2.8;18
+"Kingdom of the Vampire";1991;70;2500;6.6;7
+"Une chance sur deux";1998;110;32000000;5.6;472
+"Roger & Me";1989;91;160000;7.7;7674
+"Bubble Boy";2001;84;13000000;5.1;2904
+"Inamorata";2004;112;5000;7.8;6
+"Cover Up";1991;87;7500000;3.3;193
+"While You Were Sleeping";1995;103;17000000;6.5;13035
+"Much Ado";2003;86;10000;6;11
+"Roi danse, Le";2000;115;21000000;5.9;422
+"Auteur Theory, The";1999;79;70000;4.5;76
+"Atlas";1961;79;70000;4;26
+"Chairman of the Board";1998;95;10000000;2.6;666
+"Jezebel";1938;104;1250000;7.4;1163
+"Little Nellie Kelly";1940;98;665300;6.4;73
+"Mean Creek";2004;89;500000;7.3;2094
+"As You Desire Me";1932;70;460733;6;107
+"Avanti popolo";1986;84;60000;8.8;51
+"Winterlude";2005;95;35000;7.6;7
+"Celebrity";1998;113;12000000;6.1;4820
+"Coach Carter";2005;136;30000000;6.6;1636
+"Ballistic: Ecks vs. Sever";2002;91;70000000;3.4;4556
+"Scanner Cop II";1995;95;4000000;3.7;81
+"Employees' Entrance";1933;75;188000;7.2;106
+"Brigadoon";1954;108;2352625;6.8;1286
+"Curly Sue";1991;101;30000000;4.7;2097
+"Dot.Kill";2004;87;6000000;5;36
+"New Guy, The";2002;89;13000000;5.2;4266
+"Love Stinks";1999;94;4000000;5.3;1311
+"Raging Bull";1980;129;18000000;8.4;26739
+"Cotton Mary";1999;124;3500000;5.3;164
+"Phantasm";1979;88;300000;6.2;2406
+"Shake, Rattle & Rock!";1956;72;79000;5.1;27
+"Anna Christie";1930;89;376000;6.6;252
+"Brylcreem Boys, The";1998;106;6000000;6;199
+"One Night Stand";1997;102;24000000;5.7;1709
+"Missile to the Moon";1958;78;65000;3.5;58
+"Escape from the Planet of the Apes";1971;98;2500000;5.8;2951
+"Attila";1954;100;900000;5.2;67
+"Cape of Good Hope";2004;107;3000000;9.7;13
+"Lunes al sol, Los";2002;113;4000000;7.8;1466
+"Foreigner, The";2003;96;20000000;3.1;904
+"Full Clip";2004;95;500000;4.1;72
+"Looney Tunes: Back in Action";2003;91;80000000;6.1;2559
+"Pray for Death";1985;92;4000000;4.4;101
+"Conan the Barbarian";1982;129;20000000;6.5;13624
+"Buddy Buddy";1981;96;10000000;6.2;761
+"Back to God's Country";1919;73;67000;6.4;66
+"Catwoman";2004;104;85000000;3.4;8815
+"Gatto nel cervello, Un";1990;93;100000;5.6;237
+"Intruder, The";1962;84;80000;8;163
+"Solomon and Sheba";1959;141;5000000;5.8;254
+"Daughters of Satan";1972;90;275000;3.2;77
+"Last Castle, The";2001;131;60000000;6.4;7233
+"Broken Lullaby";1932;76;889154;7.2;66
+"Tillie's Punctured Romance";1914;82;50000;6.3;247
+"Man Betrayed, A";1941;82;250000;4.7;52
+"11:14";2003;95;6000000;7.1;605
+"Mortal Kombat: Annihilation";1997;91;30000000;3;5799
+"Dr. Jekyll and Ms. Hyde";1995;90;8000000;4.2;573
+"Time Machine, The";1960;89;750000;7.3;4269
+"Teenage Thunder";1957;78;46000;4.5;6
+"Why We Had to Kill Bitch";2003;82;15000;5.8;79
+"Gremlins";1984;106;11000000;6.8;15044
+"Class of 1999";1990;99;5200000;4.5;549
+"Return of the Living Dead 3";1993;97;2000000;5.3;1386
+"Valley of the Dolls";1967;123;5000000;5.5;967
+"Gattaca";1997;101;36000000;7.6;26071
+"Erotica";1961;68;4000;1.6;18
+"Attack of the 50 Foot Woman";1958;65;88000;4.5;521
+"Fast Times at Ridgemont High";1982;90;4500000;7.1;10361
+"Faculty, The";1998;104;15000000;6.1;13143
+"Young Sherlock Holmes";1985;109;18000000;6.4;3001
+"Go Fish";1994;84;15000;5.8;621
+"Target Earth";1954;75;85000;5.8;106
+"Crimes of the Future";1970;70;20000;4.7;94
+"Hell's Kitchen";1998;95;6000000;4.5;491
+"Vicious Sweet, The";1997;90;3000;3.2;23
+"Angel Eyes";2001;102;38000000;5.6;4829
+"Visitant, The";1981;22;0;7.1;30
+"Blackwater Elegy";2003;19;40000;9;10
+"Dark Heaven";2002;87;80000;2.4;47
+"King Kong";1933;100;670000;7.9;10301
+"Break Up";1998;100;9000000;5.1;393
+"Dentist II, The";1998;100;1800000;4.1;401
+"Rattlesnake Jake";2004;6;1000;5.4;16
+"Yume";1990;119;12000000;7.5;2735
+"Topaz";1969;143;4000000;6.1;1918
+"Puppies for Sale";1998;9;3500;7.2;44
+"Kismet";1944;100;3000000;6.2;105
+"Out-of-Sync";1995;105;1500000;4.7;37
+"Being Human";1993;122;30000000;4.8;966
+"Still Lover";2003;5;1000;7.7;7
+"Three Little Pigs";1933;8;15720;7.9;260
+"Legends of the Fall";1994;133;30000000;6.7;13327
+"Torn Curtain";1966;126;6000000;6.5;2477
+"Star Trek VI: The Undiscovered Country";1991;113;30000000;6.9;10367
+"House on Turk Street, The";2002;103;12000000;5.5;1048
+"Wyatt Earp";1994;212;63000000;6.1;5248
+"Carnival of Souls";1962;84;30000;7;1819
+"Summer of Sam";1999;142;22000000;6.5;8151
+"Overnight Delivery";1998;87;12000000;5.9;1229
+"Spandex: A Father's Tale";2005;21;30000;9.4;5
+"Adventures of Lucky Pierre, The";1961;70;7100;1.9;15
+"North by Northwest";1959;136;4000000;8.6;35648
+"Igby Goes Down";2002;99;9000000;7.1;7958
+"Dead Man";1995;120;9000000;7.6;10097
+"Gmar Gavi'a";1991;105;800000;7.5;38
+"Battle of Britain";1969;151;12000000;6.7;1728
+"Drag";1993;40;25000;7.8;5
+"Neighbors";1981;94;8500000;4.9;1419
+"Chronicles of Riddick, The";2004;135;110000000;6.2;11438
+"Jurassic Park";1993;127;63000000;7.4;57473
+"Exorcist, The";1973;132;1000000;7.9;34162
+"Robin Hood: Prince of Thieves";1991;155;50000000;6.5;20286
+"Deuce Bigalow: Male Gigolo";1999;88;18000000;5.6;9897
+"Dead Presidents";1995;119;15000000;6.3;2641
+"Zoo Radio";1990;90;100000;4.6;13
+"Northfork";2003;103;1900000;6.2;1521
+"Forgotten, The";2004;94;42000000;5.8;8234
+"Grumpier Old Men";1995;101;25000000;6.2;3711
+"Caddyshack";1980;98;6000000;7.1;13453
+"Primer";2004;77;7000;6.4;1466
+"Book and the Rose, The";2001;29;40000;9;10
+"Tattooed Stranger, The";1950;64;124000;6.5;61
+"Raising the Stakes";1999;88;100000;4.7;24
+"Sunshine Deli and Grocery, The";2000;93;300000;8.3;6
+"RoboCop";1987;103;13000000;7.1;15974
+"Pretend";2003;75;150000;7;8
+"Mannequin: On the Move";1991;95;13000000;2.9;1235
+"Fintar o Destino";1998;77;850000;6.2;16
+"Just Looking";1999;97;3000000;6.2;436
+"Sinnui yauman";1987;92;5600000;7.4;1606
+"Female Trouble";1974;97;25000;7.1;868
+"Mujeres al borde de un ataque de nervios";1988;90;700000;7.5;3894
+"Prince of Egypt, The";1998;99;60000000;6.9;9212
+"Broadway Melody, The";1929;101;379000;6;378
+"Slashers";2001;97;165000;5.2;213
+"Get Carter";2000;104;40000000;4.7;4927
+"Army of Darkness";1993;96;11000000;7.4;22118
+"Big Bounce, The";2004;88;50000000;4.7;2505
+"Lana's Rain";2002;107;215000;7.1;56
+"Orgazmo";1997;92;1000000;5.7;5128
+"Spiders";2000;95;2000000;3.2;511
+"Arizona";1940;121;2000000;6.8;67
+"Reality of Life";2002;115;12000;1;13
+"Last Emperor, The";1987;219;25000000;7.7;9507
+"Basket Case 2";1990;90;2500000;3.9;310
+"Passage to Ottawa, A";2001;90;300000;6.3;31
+"Gladiator";2000;155;103000000;8;92495
+"Birds, The";1963;119;2500000;7.8;20072
+"Jing wu men";1972;107;100000;6.7;1667
+"Wishmaster";1997;90;5000000;5;2577
+"Scary Movie 2";2001;83;45000000;4.2;12035
+"Tell Them Johnny Wadd Is Here";1975;74;12000;4.6;25
+"102 Dalmatians";2000;100;85000000;4.7;1987
+"Men of War";1994;99;12000000;4.6;397
+"What Ever Happened to Baby Jane?";1962;135;980000;7.7;3981
+"Rocky Horror Picture Show, The";1975;98;1200000;6.8;16737
+"Quigley Down Under";1990;119;20000000;6.2;2315
+"Avanti!";1972;140;2750000;7.2;1043
+"Hard Hombre";1931;65;60000;3.6;5
+"Star Trek V: The Final Frontier";1989;107;27800000;4.8;9215
+"Finding Graceland";1998;106;10000000;6.6;504
+"Cowboys & Angels";2003;89;2000000;7.5;206
+"Westerner, The";1940;100;2000000;7.8;418
+"Relic, The";1997;110;40000000;5.3;5102
+"Sol Goode";2001;99;3000000;5.4;291
+"American Gigolo";1980;117;4800000;5.7;2469
+"Paths of Glory";1957;87;935000;8.6;14391
+"Michael Collins";1996;133;25000000;6.8;5009
+"Baby Boy";2001;130;16000000;6.2;1476
+"Rains Came, The";1939;105;2600000;6.6;111
+"Detour";1945;67;30000;7.3;1114
+"Mala racha";2001;65;70000;8.5;6
+"Police Beat";2005;80;500000;2.7;22
+"Blues Brothers 2000";1998;123;28000000;4.5;5267
+"Sisters";1973;92;500000;6.8;1088
+"Nueve reinas";2000;114;1500000;7.6;3721
+"Suspended Animation";2001;114;1900000;5.2;82
+"Neon Maniacs";1986;91;1500000;4;142
+"Dusting Cliff 7";1996;95;1300000;3.5;80
+"Species";1995;108;35000000;5.4;8963
+"Under Siege 2: Dark Territory";1995;99;60000000;4.9;5551
+"Hollywood Boulevard";1976;83;60000;4.9;116
+"Noro";2002;85;500000;5.4;12
+"Superstarlet A.D.";2000;70;16000;5.4;23
+"Heart of America";2003;87;3000000;6.1;204
+"Stand-In, The";1999;100;400000;5.6;42
+"Usher";2004;91;55000;7.3;11
+"Her Knight";2003;29;16878;8;9
+"Just the Ticket";1999;115;12000000;5.5;610
+"Playing by Heart";1998;121;14000000;7.1;4958
+"Sit and Spin";2002;20;50000;8.7;6
+"Howling, The";1981;91;1000000;6.3;2546
+"Revenge of the Nerds";1984;90;8000000;6;6007
+"Follow Me Home";1996;100;220000;7.6;52
+"Net, The";1995;114;22000000;5.6;12201
+"One, Two, Three";1961;115;3000000;7.8;2551
+"Slap Her... She's French";2002;92;10000000;4.7;811
+"Life Less Ordinary, A";1997;103;12000000;6.4;8209
+"Festen";1998;105;1300000;8.2;11983
+"Transfer";1966;7;0;5.3;17
+"Sunset Blvd.";1950;115;1752000;8.6;16149
+"Prime Suspects";1997;93;550000;1.5;10
+"Reindeer Games";2000;124;36000000;5.5;7120
+"Ulee's Gold";1997;113;2700000;7.1;2368
+"White Mischief";1987;107;5300000;6;568
+"American History X";1998;119;10000000;8.4;59677
+"Seed of Chucky";2004;87;12000000;5.1;1342
+"Cellular";2004;94;25000000;6.4;6182
+"Silver Chalice, The";1954;142;4500000;4.1;184
+"Tom Horn";1980;98;3000000;6.4;404
+"Eat My Dust!";1976;89;300000;4.5;95
+"Witness for the Prosecution";1957;118;3000000;8.3;5112
+"Savage Roses";2002;90;15000;2.7;17
+"Actors Anonymous: The Truth Behind the Dream";2003;60;30000;3.2;8
+"Stereo";1969;65;3500;4.7;86
+"City of Ghosts";2002;116;17500000;5.6;877
+"Soul Food";1997;114;7500000;6.5;1166
+"Practical Magic";1998;103;60000000;5.4;7786
+"Barbarian, The";1933;83;444399;6.2;57
+"How the Grinch Stole Christmas";2000;104;123000000;5.7;12680
+"Full Metal Jacket";1987;116;30000000;8.2;47757
+"Heavy Metal";1981;90;9300000;6.2;4538
+"Confession, The";1998;20;15000;6.9;18
+"Weed: Or, A Cancer in the Community";2003;15;4750;8.2;5
+"Outside Providence";1999;96;7000000;6.1;2735
+"Down";2001;110;15000000;4.5;637
+"Embrace of the Vampire";1994;93;800000;4.2;1551
+"Hoop Dreams";1994;170;700000;7.9;4668
+"Lianna";1983;110;300000;6.9;258
+"Star Trek: First Contact";1996;106;45000000;7.3;25046
+"3 Women";1977;124;1500000;7.7;912
+"It's a Mad Mad Mad Mad World";1963;192;9400000;7.2;5891
+"Stalag 17";1953;116;1315000;8.2;7153
+"Held for Ransom";2000;91;5000000;4.5;136
+"Scooby-Doo";2002;86;84000000;4.8;9618
+"Krush Groove";1985;97;3000000;5.5;253
+"Minion, The";1998;95;12000000;3.2;338
+"Black Hawk Down";2001;142;90000000;7.6;32530
+"She Demons";1958;77;65000;2.6;47
+"Darcy's Off-White Wedding";2005;10;7000;9.4;5
+"Seventh Coin, The";1993;92;900000;4;58
+"Galaxy of the Dinosaurs";1992;65;1250;1.4;17
+"Hijo genial, Un";2003;90;1000000;1.6;7
+"Perfect Target";1997;89;3500000;4.2;55
+"Showtime";2002;96;85000000;5.5;7689
+"Event Horizon";1997;96;70000000;5.7;15510
+"Benji";1974;86;500000;5.7;679
+"All the Queen's Men";2001;105;25000000;5;353
+"No Escape";1994;118;20000000;5.6;2372
+"Beast with a Million Eyes, The";1956;75;23000;3.2;119
+"Pieces of April";2003;80;300000;7.3;4604
+"Citizen Ruth";1996;102;3000000;6.8;1441
+"Shattered Glass";2003;95;6000000;7.5;4108
+"Time Changer";2002;95;825000;4.5;304
+"Great Gatsby, The";1974;144;6500000;6.1;2419
+"Dude, Where's My Car?";2000;83;13000000;4.6;13330
+"New Jack City";1991;97;8500000;6.1;3360
+".com for Murder";2002;96;5000000;3.7;271
+"Romantic Englishwoman, The";1975;115;1200000;6;119
+"Gathering, The";2002;83;18000000;5.8;1033
+"Man-Thing";2005;96;30000000;3.8;163
+"Alien Dead";1980;69;12000;2.4;112
+"Fine and Dandy";2003;6;1000;7.2;6
+"Horror of Party Beach, The";1964;78;120000;2.2;418
+"You Are Here";2004;91;100000;5.6;5
+"Matrix Revolutions, The";2003;125;110000000;6.3;40058
+"Harvey Girls, The";1946;102;2524315;7;456
+"Final Destination";2000;98;23000000;6.6;16504
+"Always";1989;106;29500000;6.2;4913
+"Boogens, The";1982;95;600000;4.2;155
+"Out of Africa";1985;160;31000000;6.9;6797
+"Witchcraft V: Dance with the Devil";1993;94;1000000;2.4;49
+"Defender, The";2004;90;6000000;6.3;58
+"Vortex";1983;90;80000;4;11
+"Wings";1927;141;800000;7.4;803
+"Waterloo Bridge";1931;81;251289;8.3;132
+"Welcome to Mooseport";2004;117;26000000;5.3;2356
+"Johnny Mnemonic";1995;96;26000000;4.7;8258
+"Latter Days";2003;107;850000;7.3;1396
+"Torrent";1926;88;250000;7.2;75
+"Rosalie";1937;123;2000000;6.2;73
+"Hsi yen";1993;106;1000000;7.5;2342
+"Eight Legged Freaks";2002;99;30000000;5.5;6362
+"Darkness Falls";2003;86;11000000;4.5;4928
+"Anywhere But Here";1999;114;23000000;5.9;4007
+"Bingo Bus, A";2004;30;4000;6.6;7
+"Wesley Cash";2004;73;20000;8.2;31
+"Duel in the Sun";1946;144;8000000;7;866
+"Raven, The";1935;61;115000;6.8;420
+"Legend of Blood Mountain, The";1965;65;750000;1.1;19
+"Snow Day";2000;89;13000000;4.6;1645
+"East of Hope Street";1998;88;100000;5.6;14
+"Nightmare On Elm Street 4: The Dream Master, A";1988;99;13000000;4.8;3856
+"Day the World Ended";1956;79;96000;4.7;241
+"Bellboy, The";1960;72;900000;6.1;369
+"Crop Circles: Quest for Truth";2002;115;750000;7.2;66
+"War Is Hell";1963;81;47000;5.3;6
+"Babes on Broadway";1941;118;940068;6.5;171
+"Star Wars: Episode I - The Phantom Menace";1999;133;115000000;6.4;84488
+"Osama";2003;83;46000;7.5;1546
+"New York, New York";1977;163;14000000;6.3;1616
+"Reap the Wild Wind";1942;123;4000000;6.4;353
+"Err On the Side of Caution";1997;94;500000;6;5
+"Judge Dredd";1995;96;90000000;4.6;9979
+"Blue Bird, The";1976;99;12000000;3.9;148
+"Guns of Navarone, The";1961;156;6000000;7.6;5157
+"Dracula";1992;128;40000000;7.1;19972
+"Love, Ludlow";2005;97;75000;8.6;22
+"Ame agaru";1999;91;3800000;7.8;448
+"Picture Perfect";1997;105;19000000;5.6;3019
+"Psycho II";1983;113;5000000;5.7;2228
+"Gunsmoke Ranch";1937;53;35000;4.9;8
+"Enemy at the Gates";2001;131;70000000;7.3;19169
+"Hatred of a Minute";2002;83;300000;5.2;96
+"Hellraiser";1987;89;1000000;6.5;6815
+"Lord of the Rings: The Fellowship of the Ring, The";2001;208;93000000;8.8;157608
+"Naked";1999;40;3000;5.3;21
+"September";1987;82;10000000;6.1;918
+"Metro";1997;117;55000000;5.2;3560
+"Dark Manhattan";1937;70;24900;5.1;11
+"Affliction";1997;114;6000000;6.9;3679
+"Professor, The";1919;7;1000;6.6;13
+"Don't Call Me Frankie";1993;70;40000;9.1;7
+"Knock Off";1998;91;35000000;3.8;1947
+"For Caroline";2002;18;60000;6.7;19
+"Holes";2003;117;30000000;7.2;5235
+"Ripley's Game";2002;112;30000000;6.6;2680
+"David & Dee";2004;18;50000;8.6;17
+"Yellow Bird";2001;30;100000;8;21
+"Grandma's Boy";1922;60;100000;7.2;109
+"Trona";2004;63;5000;8;6
+"Twilight's Last Gleaming";1977;146;6200000;6.6;313
+"Goonies, The";1985;114;19000000;7.2;18895
+"Shalako";1968;113;1455000;5.2;287
+"Saving Silverman";2001;96;22000000;5.4;6684
+"Princess and the Pirate, The";1944;94;2000000;6.7;228
+"Emperor Jones, The";1933;80;250000;6.1;98
+"Just Add Pepper";2002;90;75000;5.1;6
+"Get on the Bus";1996;120;2400000;6.6;1142
+"Elegante, El";2003;17;2500;8.6;7
+"Women Talking Dirty";1999;97;5000000;5.8;85
+"Factotum";2005;94;1000000;6.8;60
+"This Space Between Us";2000;98;1290000;4.3;32
+"Off";2001;15;10000;9.2;5
+"Unmade Beds";1997;95;1000000;6.7;148
+"One Weekend a Month";2004;11;4000;9.4;21
+"Modesty Blaise";1966;119;3000000;5;452
+"Puzzlehead";2005;81;500000;7.7;10
+"Ghosts of Mars";2001;98;28000000;4.6;6368
+"Austin Powers: International Man of Mystery";1997;94;17000000;7;33755
+"Stepmom";1998;124;50000000;6.1;7470
+"Alferd Packer: The Musical";1996;97;125000;7;2298
+"Scary Movie 3";2003;84;45000000;5.3;9225
+"Johnny Suede";1991;97;500000;5.8;594
+"Around the World in 80 Days";2004;120;110000000;5.7;3887
+"Sins of Jezebel";1953;74;100000;5;9
+"Ordinary People";1980;124;6000000;7.9;6785
+"Drop Squad";1994;86;2000000;3.9;150
+"Taegukgi hwinalrimyeo";2004;140;12800000;8.5;1792
+"Lake Placid";1999;82;27000000;5.2;7836
+"Patrullero, El";1991;105;1500000;6.9;117
+"Saga of the Viking Women and Their Voyage to the Waters of the Great Sea Serpent, The";1957;66;65000;2.5;144
+"Meteor";1979;107;16000000;4.5;1116
+"Super Troopers";2001;100;3000000;6.3;7728
+"Pobeg";2005;117;1800000;2.6;18
+"Eraser";1996;115;100000000;5.8;14641
+"Veronica Guerin";2003;92;17000000;6.8;2688
+"Megiddo: The Omega Code 2";2001;104;22000000;3.8;729
+"Lady of the Lake";1998;82;60000;3.9;46
+"Parasite";1982;85;800000;3.2;228
+"I Am a Fugitive from a Chain Gang";1932;93;195845;8.1;1198
+"Dinner at Eight";1933;113;435000;7.6;1031
+"Tunnel Vision";1976;95;250000;4.8;166
+"Stryker's War";1985;84;100000;5.1;146
+"Skullduggery";1970;105;4500000;4;69
+"Cutaway";2000;104;9000000;5.1;390
+"Johnny English";2003;87;35000000;5.6;8125
+"Sindrome di Stendhal, La";1996;113;3800000;5.8;972
+"Top Gun";1986;110;15000000;6.5;32410
+"Eyes Wide Shut";1999;159;65000000;7;37868
+"Starsky & Hutch";2004;101;60000000;6.3;13529
+"O Brother, Where Art Thou?";2000;106;26000000;7.8;37961
+"My Life's in Turnaround";1993;84;22000;3.9;196
+"Black Room, The";1984;87;250000;4.5;33
+"Batman Returns";1992;126;80000000;6.5;23010
+"Moby Dick";1956;115;4500000;7.3;1887
+"Alice's Adventures in Wonderland";1972;95;2500000;5.6;165
+"Frisco Jenny";1932;71;286000;6.6;36
+"Walk in the Clouds, A";1995;102;20000000;6.2;4085
+"Chair, The";1989;100;3000000;3.8;40
+"Terminal USA";1993;54;365000;6.9;37
+"Darkness Minus Twelve";2004;12;4400;8.9;8
+"Ever After";1998;121;26000000;7;10250
+"Multiplicity";1996;117;45000000;5.7;5241
+"Held Up";1999;89;8000000;4.6;555
+"Miss Congeniality";2000;109;45000000;6.2;16235
+"Lost Weekend, The";1945;101;1250000;8.1;2661
+"Satyricon";1969;129;3000000;6.5;1879
+"Hand Behind the Mouse: The Ub Iwerks Story, The";1999;90;600000;6.4;24
+"Laws of Attraction";2004;90;28000000;5.7;2349
+"Deer Hunter, The";1978;183;15000000;8.1;28210
+"Honorable, The";2002;88;50000;6.8;30
+"Halloween 5";1989;96;5000000;4.2;2597
+"Suzy";1936;93;614000;6.2;146
+"Fall of the Roman Empire, The";1964;184;19000000;6.4;996
+"Mo' Better Blues";1990;130;10000000;6.1;1408
+"Greatest Show on Earth, The";1952;152;4000000;6.7;1361
+"Bill & Ted's Bogus Journey";1991;93;20000000;5.6;8152
+"Telling Lies in America";1997;101;4000000;6.4;646
+"Coltelli del vendicatore, I";1966;86;75000;4.7;38
+"Cinderella Story, A";2004;95;20000000;4.9;2755
+"Boogeyman";2005;89;20000000;4.1;2055
+"Motel Hell";1980;102;3000000;5.2;791
+"Susan Lenox (Her Fall and Rise)";1931;76;580000;6.2;118
+"She Freak";1967;83;65000;3.5;74
+"Babes in Arms";1939;93;748000;6.5;239
+"Collateral";2004;120;65000000;7.7;24499
+"V.I.P.s, The";1963;120;4000000;6.2;366
+"Batman";1989;126;35000000;7.4;35927
+"Short Cut to Nirvana: Kumbh Mela";2004;85;200000;8.6;31
+"Shanghai Noon";2000;110;55000000;6.7;12258
+"Spy Game";2001;126;92000000;7;16736
+"She's So Lovely";1997;100;18000000;5.7;2280
+"Trois 3: The Escort";2004;95;1000000;4.8;38
+"Summer Holiday";1948;93;2258325;5.7;59
+"Preventive Warriors";2004;56;50000;9;12
+"Joe's Apartment";1996;80;13000000;5;2169
+"Wash, The";2001;93;4000000;3.7;902
+"Dinosaur";2000;82;127500000;6.3;5839
+"Sands of Iwo Jima";1949;109;1000000;7;1353
+"Leggenda del pianista sull'oceano, La";1998;120;9000000;7.6;3599
+"Freeway";1996;102;3000000;6.5;4961
+"Wedding March, The";1928;113;1000000;8.5;134
+"Deep End of the Ocean, The";1999;106;40000000;5.9;2890
+"Frailty";2001;100;11000000;7.4;10551
+"Young Guns";1988;102;13000000;6.4;8104
+"Diamonds Are Forever";1971;120;7200000;6.6;8738
+"Book of Life, The";1998;63;350000;6.7;551
+"Mark of Cain";1985;90;1000000;4.1;12
+"Little Giant, The";1933;76;197000;6.8;63
+"Straight Story, The";1999;112;10000000;8.1;14679
+"Perfect Woman, The";1993;8;8000;7.8;8
+"Brainstorm";1983;106;15000000;6.2;1956
+"Police Academy";1984;96;4500000;5.7;8268
+"Invasion of the Body Snatchers";1956;80;417000;7.8;5286
+"Forced March";1989;104;2700000;4;16
+"In Cold Blood";1967;129;3500000;8;2406
+"Bad Company";2002;116;70000000;5.4;6175
+"Contact";1997;153;90000000;7.3;36390
+"Bill of Divorcement, A";1932;70;300000;6.5;183
+"Wild Angels, The";1966;93;360000;4.7;212
+"American Bickman Burger, The";2001;18;100000;5.7;13
+"Graveyard Shift";1990;89;10500000;3.8;1074
+"Rules, The";2004;29;20000;8.9;9
+"Babel";1999;95;20000000;4.5;53
+"Crow: City of Angels, The";1996;84;13000000;3.8;3656
+"Hearts of Fire";1987;95;17000000;3.3;107
+"Kimberly";1999;106;2000000;5.3;231
+"Great White Hope, The";1970;103;6000000;6.9;369
+"Godfather: Part III, The";1990;169;54000000;7.3;22385
+"Along for the Ride";2000;99;150000;7.6;15
+"Girl Wrestler";2003;56;230000;8;8
+"Superman";1941;10;100000;7.5;148
+"Star Trek IV: The Voyage Home";1986;136;25000000;7.1;11647
+"Eskimo";1933;117;950000;7;30
+"Cabiria";1914;162;210000;7.6;216
+"Automation";2004;26;41000;6.1;13
+"Gretchen & the Night Danger";2004;26;4000;7.5;11
+"Mommie Dearest";1981;129;5000000;6.2;1696
+"Shakespeare in Love";1998;122;25000000;7.5;41999
+"Curse of the Puppet Master";1998;77;250000;2.7;267
+"Jakob the Liar";1999;120;15000000;5.9;2544
+"Tracks";2002;92;1000000;5;5
+"Mix";2004;97;1000000;5.9;96
+"Conspiracy Theory";1997;135;75000000;6.4;15470
+"Artie Shaw: Time Is All You've Got";1985;114;250000;7.9;18
+"Jerry and Tom";1998;106;5000000;6.7;447
+"Chasing Jason";2004;7;2000;7;9
+"Seven Year Itch, The";1955;105;3200000;7.2;3211
+"Conversation, The";1974;113;1600000;8.1;10260
+"Tower of Evil";1972;85;400000;4.3;111
+"Wild Gals of the Naked West";1962;65;26000;2.7;74
+"Psych-Out";1968;101;100000;5.5;286
+"Half Past Dead";2002;98;30000000;3.9;2099
+"Emperor Waltz, The";1948;110;4070248;6.1;151
+"True Romance";1993;121;12500000;7.7;25896
+"Bring Me the Head of Alfredo Garcia";1974;112;1500000;7.1;1163
+"High Fidelity";2000;113;20000000;7.6;29704
+"Die xue jie tou";1990;126;3500000;7.6;1805
+"Dreamaniac";1986;82;60000;4.3;36
+"One True Thing";1998;127;30000000;7;2534
+"Enemy, The";2003;34;250000;8.2;147
+"Learning Curve, The";2001;113;1000000;5.2;177
+"Brigham City";2001;119;1000000;7.1;405
+"Young Stranger, The";1957;84;350000;6.6;67
+"Comunidad, La";2000;110;2000000;7.2;1270
+"Home at the End of the World, A";2004;96;6500000;6.5;1693
+"Ozone";1993;83;3500;3.3;66
+"Gettysburg";1993;259;25000000;7.5;5191
+"Specialist, The";1994;110;45000000;4.7;6602
+"Wilde";1997;118;10000000;6.9;2545
+"Dead Zone, The";1983;103;10000000;7.2;6338
+"Rhapsody in Bloom";1998;92;2200000;6.2;104
+"Daddy Cool";2002;85;150000;5.7;17
+"Ted Bundy";2002;99;1200000;5.2;852
+"Friday the 13th Part VIII: Jason Takes Manhattan";1989;100;5000000;3.6;3248
+"Dead Heat";1988;86;5000000;4.8;470
+"Dom durakov";2002;104;2500000;6.8;382
+"Into the Sun";2005;97;16000000;4;481
+"Tomorrow Never Dies";1997;119;110000000;6.4;19397
+"Miracle Worker, The";1962;106;500000;7.9;2130
+"Empty Building, The";2004;40;170000;9.5;11
+"Brazil";1985;94;15000000;8;30735
+"Roadside Attractions";2004;15;6500;8.2;8
+"Drive Me Crazy";1999;91;8000000;5.1;2934
+"Grand Prix";1966;179;9000000;6.4;971
+"Repo Man";1984;92;1500000;6.8;4954
+"Hikikomori: Tokyo Plastic";2004;75;1150000;7;7
+"Arrangement";2004;109;3200000;9.2;23
+"Last Patrol, The";2000;95;8200000;2.9;236
+"Ghosts of Mississippi";1996;130;36000000;6.4;2268
+"Divorcee, The";1930;82;340691;6.7;184
+"Patton";1970;172;12000000;8.2;14351
+"Donnie Darko";2001;133;4500000;8.3;51961
+"Incredibles, The";2004;121;92000000;8.3;30749
+"Kejar Amerika";2004;86;100000;6.7;19
+"North";1994;87;40000000;4.1;2539
+"Assassination of Trotsky, The";1972;103;2500000;5;148
+"She Gods of Shark Reef";1958;63;50000;2.7;53
+"Pol Pot's Birthday";2004;10;9000;8.7;11
+"Terminator 2: Judgment Day";1991;154;100000000;8.2;77614
+"Bucket of Blood, A";1959;66;25000;6.6;416
+"Breakfast at Tiffany's";1961;115;2500000;7.7;12246
+"I Still Know What You Did Last Summer";1998;100;24000000;4;9524
+"Sgt. Bilko";1996;93;39000000;5.1;3712
+"Eegah";1962;90;15000;1.9;1314
+"Sjunde inseglet, Det";1957;92;150000;8.4;9622
+"One from the Heart";1982;107;26000000;6;759
+"What Happened Was...";1994;91;120000;7;386
+"Able Edwards";2004;87;30000;6.2;24
+"Hey Arnold! The Movie";2002;76;10000000;4.8;425
+"Four Dead Batteries";2004;96;77000;8.7;19
+"Quest for Camelot";1998;74;40000000;5.4;974
+"Air Force One";1997;124;85000000;6.3;26156
+"School Daze";1988;121;6500000;5.3;955
+"Knack, The";1965;84;364000;6.7;364
+"It Came from Hollywood";1982;80;5000000;5.5;240
+"Becky Sharp";1935;67;950000;6.2;103
+"Egyptian, The";1954;139;5000000;5.7;376
+"Sunshine State";2002;141;5600000;7;1481
+"Halloween H20: 20 Years Later";1998;85;17000000;5.3;8153
+"Metropolis Apocalypse";1988;11;20000;2;7
+"White Rose, The";1923;100;650000;7.5;16
+"Mad City";1997;115;50000000;6;3965
+"Camp Pacific";2002;29;35000;9.1;21
+"Bumer";2003;110;700000;6.5;264
+"Hacks";2002;93;200000;8.1;56
+"Zero";2000;20;0;8.1;24
+"15 Minutes";2001;120;42000000;6.1;10866
+"Centipede!";2004;90;500000;3.6;35
+"Saratoga Trunk";1945;135;1750000;5.9;153
+"Waking Ned";1998;92;3000000;7.3;7232
+"Rockula";1990;87;1500000;4.5;89
+"Other Side of Heaven, The";2001;113;7000000;6.5;683
+"Private Life of Sherlock Holmes, The";1970;125;10000000;7.3;957
+"Craig's Wife";1936;73;300000;7.8;54
+"My Father's Son";2002;80;60000;8.4;9
+"Night at the Roxbury, A";1998;81;17000000;5.1;5937
+"Romeo Division, The";2004;25;6000;7.2;13
+"Dangerous Money";1946;66;75000;6.2;88
+"Phantom, The";1996;100;45000000;5;3329
+"Cafe Society";1995;104;3500000;5.7;137
+"Windtalkers";2002;153;115000000;5.9;9081
+"Texas Rangers";2001;86;38000000;5.1;945
+"Greenskeeper, The";2002;90;80000;4.7;38
+"Shine";1996;105;5500000;7.6;12425
+"Ace Ventura: Pet Detective";1994;86;12000000;6.2;20705
+"Devil's Advocate, The";1997;144;57000000;7;26904
+"Tora! Tora! Tora!";1970;144;25000000;7.4;3663
+"Lord of the Rings: The Two Towers, The";2002;223;94000000;8.8;114797
+"Do the Right Thing";1989;120;6500000;7.7;9324
+"Merry Widow, The";1925;137;608016;7.6;91
+"Adventures of Huck Finn, The";1993;108;6500000;5.9;1134
+"Cyborg";1989;86;2000000;3.8;2320
+"Greatest Story Ever Told, The";1965;225;20000000;6;1097
+"Hush... Hush, Sweet Charlotte";1964;133;1900000;7.3;1293
+"In the Mouth of Madness";1994;95;14000000;6.5;4835
+"Cool as Ice";1991;100;6000000;2.4;1280
+"Little Secrets";2001;97;2500000;6.9;457
+"Lord of the Rings, The";1978;132;8000000;5.8;5734
+"K-PAX";2001;120;48000000;7.2;17235
+"Omen, The";1976;107;2800000;7.3;7895
+"In Crowd, The";2000;104;15000000;4;1342
+"Baby Blue";2001;119;2500000;6.4;98
+"Rio Peligroso: A Day in the Life of a Legendary Coyote";2004;25;5000;8.8;9
+"Cry-Baby";1990;85;11000000;6;4136
+"Get Shorty";1995;105;30250000;7;14825
+"Star Trek: The Wrath of Khan";1982;116;11000000;7.6;16333
+"Out of Reach";2004;88;20000000;3.7;399
+"Lara Croft: Tomb Raider";2001;100;80000000;5.2;21861
+"Cell, The";2000;109;33000000;6.1;16118
+"Sometimes They Come Back... Again";1996;98;3000000;2.9;630
+"Nicholas Nickleby";2002;132;10000000;7.4;1651
+"Life in Bed";2003;75;750000;8.3;6
+"Land of College Prophets, The";2005;83;80000;6.5;25
+"Kentucky Fried Movie, The";1977;90;600000;6.4;3756
+"Tuxedo, The";2002;98;60000000;5.1;6070
+"Redemption: The Stan Tookie Williams Story";2004;95;75000;6.5;350
+"Changing Habits";1997;95;1200000;5.5;134
+"Inside Daisy Clover";1965;128;4500000;6.1;340
+"I Wanna Hold Your Hand";1978;104;2700000;6.7;530
+"Ravenous";1999;108;12000000;6.7;5915
+"Mystery Train";1989;113;2800000;7.2;2469
+"Fish in a Barrel";2001;85;200000;5.5;59
+"Saw";2004;100;1200000;7.5;17191
+"Possums";1998;97;1400000;5.3;66
+"Anger Management";2003;106;75000000;6;14280
+"I Never";2003;22;40000;3.4;5
+"Jimmy Neutron: Boy Genius";2001;84;25000000;6;2280
+"Godfather, The";1972;175;6000000;9.1;122755
+"Gangster Story";1960;65;75000;4.5;23
+"November";2004;73;300000;2.8;164
+"Juror, The";1996;118;44000000;5.3;2920
+"Ghost";1990;128;22000000;6.8;19005
+"Hardware Wars";1977;13;8000;7.2;572
+"Explosion";1969;98;500000;4.9;5
+"One of Five";2002;28;10000;7.5;8
+"How High";2001;95;12000000;4.9;2916
+"Day of Independence";2003;27;200000;2.8;11
+"Draw the Pirate";2004;7;50000;8.5;5
+"Losin' It";1983;100;7000000;4.5;645
+"Fear and Desire";1953;68;20000;6.3;225
+"Fast and the Furious, The";1954;73;66000;4.6;73
+"Seven Years in Tibet";1997;139;70000000;6.6;9426
+"Men in Black II";2002;88;140000000;5.6;21580
+"Boys and Girls";2000;94;16000000;4.9;3483
+"Lumpia";2003;80;1000;6;13
+"Barbarians, The";1960;84;750000;4.5;18
+"Dance Lexie Dance";1996;14;75000;4;15
+"Three Smart Girls";1936;84;326000;7.1;107
+"Adventure's End";1937;60;90000;3.3;16
+"Sand Pebbles, The";1966;193;12000000;7.6;1773
+"Bravo Two Zero";1999;115;6500000;6.5;578
+"Papillon";1973;150;12000000;7.8;9553
+"Good Morning, Vietnam";1987;119;13000000;7.1;13823
+"Zimmer Feri";1998;97;500000;6.3;61
+"Scaramouche";1923;101;858723;7.4;52
+"Leather and Iron";2002;90;650000;5.5;6
+"Peter Pan";1953;76;4000000;7.2;4891
+"Marvin's Room";1996;98;23000000;6.5;4005
+"Spawn";1997;98;40000000;4.6;7523
+"Permanent Record";1988;91;8000000;6.1;360
+"Auto Focus";2002;105;7000000;6.7;3276
+"Spy Kids";2001;88;35000000;6.2;7400
+"Sugar Town";1999;92;250000;5.8;307
+"Dumbo";1941;64;950000;7.4;6828
+"Junior";1985;80;350000;4.1;57

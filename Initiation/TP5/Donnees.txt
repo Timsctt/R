@@ -1,0 +1,808 @@
+"Genre";"Foyers";"Diplome";"DureeTV"
+"H";5;"Bac+2";121
+"H";5;"Pas de diplome";160
+"F";2;"BEPC";130
+"F";4;"SupBac+2";109
+"H";4;"Pas de diplome";150
+"F";3;"CAP,BEP";126
+"F";4;"CAP,BEP";103
+"F";4;"SupBac+2";120
+"H";1;"BEPC";124
+"F";5;"Pas de diplome";119
+"F";1;"Bac+2";124
+"F";5;"Bac";120
+"H";1;"SupBac+2";123
+"H";3;"SupBac+2";138
+"H";3;"Bac+2";129
+"F";5;"CAP,BEP";140
+"F";4;"Pas de diplome";124
+"F";2;"Bac";109
+"F";2;"Bac";112
+"F";2;"CAP,BEP";132
+"H";4;"SupBac+2";129
+"H";2;"BEPC";147
+"H";5;"Bac";150
+"F";5;"Bac";122
+"H";5;"Bac+2";144
+"H";3;"Bac";127
+"H";2;"Pas de diplome";155
+"H";3;"Bac";127
+"F";1;"Bac";122
+"F";3;"Pas de diplome";119
+"H";5;"Pas de diplome";139
+"H";4;"CAP,BEP";136
+"F";4;"Bac";134
+"H";2;"Pas de diplome";165
+"F";3;"BEPC";105
+"H";4;"CAP,BEP";140
+"H";4;"Pas de diplome";139
+"H";4;"CAP,BEP";148
+"F";4;"BEPC";135
+"H";1;"BEPC";148
+"F";5;"Bac+2";99
+"F";4;"Bac";141
+"F";1;"Bac";142
+"H";2;"Bac+2";135
+"F";3;"CAP,BEP";113
+"F";5;"Pas de diplome";145
+"H";5;"Pas de diplome";148
+"F";1;"CAP,BEP";160
+"H";2;"Bac";122
+"F";4;"BEPC";133
+"F";2;"Bac+2";130
+"H";3;"Bac";145
+"F";3;"BEPC";135
+"F";5;"BEPC";118
+"F";5;"Bac";123
+"F";3;"Bac+2";116
+"H";5;"Bac";130
+"F";1;"SupBac+2";107
+"F";5;"SupBac+2";127
+"H";3;"CAP,BEP";132
+"F";1;"Pas de diplome";138
+"F";2;"Bac+2";131
+"F";5;"Pas de diplome";116
+"H";3;"Pas de diplome";136
+"H";1;"Bac+2";130
+"F";5;"Pas de diplome";121
+"H";5;"CAP,BEP";129
+"F";3;"Pas de diplome";123
+"F";3;"BEPC";141
+"H";4;"CAP,BEP";138
+"H";1;"Bac+2";131
+"H";1;"Bac";149
+"H";1;"BEPC";122
+"F";2;"CAP,BEP";128
+"H";1;"SupBac+2";154
+"H";5;"Pas de diplome";150
+"H";2;"BEPC";129
+"F";2;"CAP,BEP";136
+"H";4;"Bac+2";125
+"F";4;"Bac";109
+"F";2;"CAP,BEP";144
+"H";4;"Bac+2";120
+"H";4;"SupBac+2";125
+"H";4;"Pas de diplome";122
+"H";2;"SupBac+2";126
+"H";1;"BEPC";139
+"H";4;"SupBac+2";129
+"F";2;"CAP,BEP";136
+"F";3;"CAP,BEP";130
+"H";1;"CAP,BEP";152
+"F";5;"SupBac+2";125
+"H";4;"CAP,BEP";141
+"H";5;"Pas de diplome";144
+"H";4;"BEPC";115
+"F";3;"Bac";125
+"H";4;"SupBac+2";130
+"F";4;"Bac";118
+"H";3;"Pas de diplome";135
+"H";2;"Pas de diplome";126
+"F";1;"CAP,BEP";141
+"H";3;"BEPC";138
+"H";4;"Bac";132
+"F";3;"Bac+2";110
+"H";3;"Bac+2";119
+"H";5;"SupBac+2";140
+"F";5;"Bac+2";111
+"H";4;"Bac";141
+"F";3;"Pas de diplome";127
+"F";3;"Pas de diplome";106
+"H";4;"Bac+2";114
+"H";4;"SupBac+2";128
+"F";1;"Bac";118
+"H";1;"CAP,BEP";151
+"H";4;"SupBac+2";123
+"H";2;"BEPC";144
+"H";2;"Bac+2";134
+"H";5;"Bac";123
+"F";4;"Pas de diplome";122
+"H";2;"Bac+2";123
+"H";2;"BEPC";147
+"F";4;"Bac+2";93
+"H";1;"BEPC";148
+"F";4;"CAP,BEP";131
+"F";1;"CAP,BEP";150
+"F";3;"BEPC";106
+"F";5;"Bac";101
+"F";4;"CAP,BEP";127
+"F";2;"Bac+2";115
+"H";1;"Bac";145
+"H";3;"BEPC";130
+"F";1;"BEPC";137
+"F";5;"Pas de diplome";105
+"H";1;"SupBac+2";144
+"F";3;"Bac+2";126
+"F";1;"BEPC";147
+"F";2;"Pas de diplome";140
+"F";3;"Bac";118
+"F";5;"SupBac+2";98
+"F";5;"CAP,BEP";125
+"F";3;"Bac+2";97
+"H";2;"Pas de diplome";137
+"H";5;"Pas de diplome";131
+"F";1;"Pas de diplome";124
+"H";5;"Bac";127
+"H";2;"Bac+2";134
+"F";5;"SupBac+2";109
+"F";1;"Bac";150
+"H";1;"Bac";131
+"F";4;"Bac+2";111
+"H";4;"CAP,BEP";148
+"H";1;"Bac";147
+"F";5;"SupBac+2";104
+"F";2;"Bac";116
+"F";1;"Bac+2";133
+"F";1;"Pas de diplome";133
+"H";4;"BEPC";134
+"F";4;"Pas de diplome";112
+"F";4;"Bac";109
+"F";2;"Pas de diplome";110
+"F";5;"CAP,BEP";131
+"H";5;"SupBac+2";133
+"H";1;"CAP,BEP";124
+"F";2;"Bac+2";127
+"H";2;"BEPC";138
+"F";2;"BEPC";137
+"H";4;"SupBac+2";109
+"F";5;"BEPC";124
+"H";4;"SupBac+2";121
+"F";3;"Pas de diplome";117
+"H";2;"Pas de diplome";143
+"F";3;"Pas de diplome";127
+"H";5;"Bac+2";124
+"H";4;"SupBac+2";127
+"H";5;"CAP,BEP";151
+"F";3;"Bac";117
+"H";5;"Bac";134
+"H";5;"BEPC";152
+"H";2;"Bac+2";144
+"F";5;"SupBac+2";99
+"F";5;"BEPC";126
+"F";4;"BEPC";117
+"F";5;"CAP,BEP";111
+"F";3;"SupBac+2";109
+"F";4;"BEPC";127
+"H";2;"Bac+2";140
+"H";4;"BEPC";123
+"F";5;"SupBac+2";119
+"H";2;"CAP,BEP";138
+"H";2;"Bac";140
+"H";3;"BEPC";117
+"F";3;"SupBac+2";113
+"F";4;"Bac+2";117
+"F";5;"Bac";116
+"H";4;"Bac+2";121
+"F";1;"SupBac+2";135
+"F";5;"Bac+2";105
+"F";3;"Pas de diplome";116
+"F";2;"Bac";136
+"H";1;"SupBac+2";144
+"H";5;"Bac";144
+"F";5;"BEPC";106
+"H";2;"Bac+2";140
+"F";2;"CAP,BEP";134
+"F";1;"BEPC";131
+"F";2;"Bac";138
+"F";1;"Pas de diplome";136
+"H";5;"Bac";142
+"H";3;"Pas de diplome";149
+"F";1;"CAP,BEP";146
+"H";2;"Pas de diplome";155
+"F";2;"Bac+2";119
+"F";4;"CAP,BEP";138
+"H";2;"Pas de diplome";148
+"F";5;"CAP,BEP";132
+"F";3;"Pas de diplome";127
+"F";5;"SupBac+2";123
+"H";4;"Bac";131
+"H";1;"BEPC";148
+"F";1;"Bac";136
+"H";3;"Bac";128
+"H";5;"CAP,BEP";152
+"F";1;"Bac+2";124
+"H";3;"BEPC";143
+"H";1;"Bac+2";116
+"H";1;"Pas de diplome";158
+"H";1;"Pas de diplome";148
+"H";4;"Bac";107
+"H";3;"Bac";117
+"H";1;"Bac+2";131
+"H";5;"SupBac+2";129
+"F";4;"CAP,BEP";132
+"F";2;"Pas de diplome";144
+"F";5;"CAP,BEP";124
+"H";1;"Pas de diplome";166
+"H";1;"CAP,BEP";141
+"H";5;"Bac";134
+"H";1;"BEPC";151
+"F";2;"Pas de diplome";143
+"F";5;"CAP,BEP";130
+"H";4;"Pas de diplome";137
+"H";2;"Bac+2";134
+"H";2;"BEPC";133
+"H";2;"Pas de diplome";147
+"F";3;"CAP,BEP";119
+"F";3;"Bac+2";110
+"F";2;"CAP,BEP";153
+"F";1;"Pas de diplome";121
+"F";2;"SupBac+2";121
+"H";1;"CAP,BEP";156
+"H";5;"CAP,BEP";146
+"F";4;"BEPC";133
+"H";3;"CAP,BEP";137
+"F";3;"Pas de diplome";126
+"H";4;"Bac+2";129
+"F";2;"Bac";115
+"F";1;"SupBac+2";124
+"F";2;"Bac";129
+"H";5;"Pas de diplome";167
+"H";1;"Bac+2";135
+"H";1;"Bac+2";123
+"H";5;"SupBac+2";148
+"F";5;"SupBac+2";128
+"H";4;"Bac+2";122
+"H";2;"BEPC";150
+"H";1;"Pas de diplome";136
+"F";3;"Bac";114
+"F";4;"Bac+2";122
+"F";5;"Bac";104
+"F";3;"CAP,BEP";118
+"F";2;"CAP,BEP";130
+"F";4;"SupBac+2";98
+"F";1;"BEPC";138
+"H";2;"CAP,BEP";165
+"H";5;"SupBac+2";131
+"F";5;"Bac";98
+"F";4;"Pas de diplome";135
+"F";3;"Bac";105
+"H";2;"Bac";134
+"F";1;"Bac";137
+"H";2;"Bac";146
+"H";5;"CAP,BEP";163
+"H";3;"Bac+2";128
+"F";3;"Pas de diplome";145
+"F";1;"SupBac+2";109
+"F";4;"CAP,BEP";121
+"F";3;"Bac";116
+"H";3;"CAP,BEP";154
+"H";4;"BEPC";137
+"H";1;"Bac";144
+"H";5;"SupBac+2";145
+"F";3;"Bac";113
+"H";2;"BEPC";147
+"H";5;"Pas de diplome";149
+"H";4;"SupBac+2";114
+"H";5;"Bac+2";143
+"H";2;"Bac";121
+"H";3;"Bac";122
+"F";3;"CAP,BEP";135
+"H";3;"BEPC";144
+"H";2;"CAP,BEP";138
+"F";5;"Bac";118
+"H";4;"BEPC";140
+"H";3;"Pas de diplome";134
+"F";3;"CAP,BEP";129
+"H";2;"BEPC";150
+"F";4;"BEPC";138
+"H";1;"Pas de diplome";140
+"F";4;"SupBac+2";131
+"F";4;"Bac+2";104
+"F";2;"Pas de diplome";123
+"F";5;"BEPC";122
+"H";2;"Pas de diplome";154
+"H";1;"Bac";133
+"F";5;"Pas de diplome";111
+"F";2;"BEPC";134
+"F";4;"Bac";118
+"F";3;"Bac";108
+"H";1;"Bac";142
+"F";2;"Bac+2";114
+"H";3;"Bac";144
+"F";5;"Bac+2";113
+"H";4;"Pas de diplome";125
+"H";4;"BEPC";127
+"F";4;"SupBac+2";116
+"H";1;"CAP,BEP";165
+"H";1;"SupBac+2";130
+"F";3;"SupBac+2";100
+"H";1;"Bac";142
+"F";5;"Bac";112
+"F";5;"BEPC";126
+"F";3;"Bac";108
+"F";1;"Bac";112
+"F";5;"Pas de diplome";122
+"H";2;"BEPC";151
+"F";2;"SupBac+2";113
+"H";5;"Bac+2";145
+"F";5;"CAP,BEP";120
+"F";4;"Pas de diplome";132
+"F";5;"Bac";108
+"F";5;"Bac+2";113
+"H";1;"Bac+2";146
+"F";1;"BEPC";133
+"H";4;"BEPC";132
+"F";2;"BEPC";120
+"F";3;"SupBac+2";118
+"H";5;"Bac";143
+"F";5;"Bac";121
+"F";2;"SupBac+2";103
+"H";5;"Bac+2";141
+"F";5;"Pas de diplome";117
+"H";4;"Bac";142
+"H";1;"Bac+2";137
+"H";1;"Bac+2";114
+"H";1;"CAP,BEP";167
+"F";3;"SupBac+2";128
+"H";4;"Pas de diplome";135
+"H";2;"Pas de diplome";152
+"F";4;"CAP,BEP";132
+"F";5;"Bac+2";118
+"F";3;"Bac";103
+"H";4;"Bac";148
+"H";2;"CAP,BEP";117
+"F";3;"Bac+2";126
+"F";5;"Pas de diplome";118
+"H";5;"CAP,BEP";159
+"H";1;"Pas de diplome";167
+"H";5;"SupBac+2";139
+"H";1;"CAP,BEP";114
+"H";4;"Bac+2";112
+"H";1;"Bac+2";135
+"H";1;"SupBac+2";147
+"H";3;"Pas de diplome";146
+"H";3;"Bac";127
+"H";5;"CAP,BEP";172
+"H";3;"Bac+2";129
+"H";3;"BEPC";133
+"F";5;"Bac";105
+"H";4;"Pas de diplome";135
+"H";1;"Bac+2";145
+"F";3;"Bac";121
+"F";5;"CAP,BEP";109
+"F";4;"BEPC";145
+"H";2;"BEPC";125
+"H";5;"Bac";144
+"F";2;"BEPC";127
+"H";2;"Bac";132
+"H";3;"BEPC";157
+"H";3;"BEPC";136
+"H";1;"CAP,BEP";176
+"F";1;"SupBac+2";116
+"F";1;"Bac+2";128
+"F";4;"BEPC";125
+"H";5;"Bac";147
+"F";2;"Pas de diplome";117
+"F";2;"SupBac+2";121
+"F";1;"SupBac+2";127
+"H";2;"SupBac+2";133
+"F";2;"Bac";137
+"H";4;"CAP,BEP";133
+"H";3;"Bac";140
+"F";1;"Bac";126
+"H";5;"SupBac+2";129
+"F";2;"BEPC";122
+"H";4;"BEPC";138
+"F";3;"Bac+2";131
+"H";5;"SupBac+2";130
+"F";1;"Pas de diplome";138
+"F";2;"Bac";129
+"H";3;"CAP,BEP";128
+"H";1;"CAP,BEP";141
+"F";2;"BEPC";111
+"F";1;"CAP,BEP";134
+"F";4;"CAP,BEP";139
+"H";1;"SupBac+2";129
+"H";1;"CAP,BEP";155
+"H";4;"Bac";139
+"F";3;"Pas de diplome";118
+"F";4;"CAP,BEP";127
+"F";5;"BEPC";105
+"F";3;"Bac+2";102
+"F";5;"Bac";117
+"F";1;"BEPC";152
+"H";5;"BEPC";156
+"H";4;"SupBac+2";128
+"H";4;"Pas de diplome";123
+"F";5;"CAP,BEP";112
+"F";4;"Pas de diplome";114
+"F";1;"Bac";123
+"H";1;"CAP,BEP";148
+"F";5;"Bac+2";126
+"H";3;"Bac";133
+"H";2;"Bac";133
+"H";4;"CAP,BEP";150
+"F";4;"Bac+2";131
+"F";5;"BEPC";104
+"F";3;"SupBac+2";121
+"F";5;"SupBac+2";107
+"H";1;"BEPC";132
+"F";2;"Bac";115
+"F";5;"Bac";127
+"F";2;"BEPC";118
+"H";1;"SupBac+2";132
+"H";1;"BEPC";156
+"F";3;"Bac";99
+"F";3;"SupBac+2";111
+"H";4;"BEPC";121
+"H";1;"Bac";115
+"F";5;"SupBac+2";118
+"H";2;"SupBac+2";151
+"H";3;"Bac";125
+"H";5;"BEPC";131
+"H";1;"BEPC";152
+"F";1;"BEPC";147
+"H";5;"Pas de diplome";154
+"H";1;"Bac+2";139
+"H";4;"Bac";125
+"H";3;"SupBac+2";137
+"H";1;"Bac+2";138
+"H";2;"Bac";143
+"H";5;"Bac";116
+"H";1;"BEPC";151
+"F";4;"Bac";128
+"F";4;"Bac+2";98
+"H";5;"Bac+2";143
+"F";3;"Bac+2";112
+"F";2;"CAP,BEP";146
+"H";5;"Pas de diplome";164
+"F";5;"BEPC";97
+"F";4;"BEPC";123
+"F";4;"Pas de diplome";125
+"H";3;"Pas de diplome";135
+"H";5;"Pas de diplome";142
+"F";3;"BEPC";121
+"H";5;"SupBac+2";151
+"F";5;"Bac";132
+"H";4;"Pas de diplome";144
+"H";2;"CAP,BEP";135
+"H";2;"BEPC";127
+"F";2;"SupBac+2";118
+"H";1;"CAP,BEP";144
+"H";2;"SupBac+2";119
+"F";3;"Bac";122
+"F";2;"Pas de diplome";132
+"H";2;"Pas de diplome";161
+"F";3;"Pas de diplome";110
+"F";2;"Bac+2";116
+"F";3;"CAP,BEP";111
+"H";2;"Pas de diplome";162
+"F";1;"Bac+2";128
+"F";3;"BEPC";111
+"F";1;"Bac+2";121
+"F";4;"Bac+2";100
+"F";3;"BEPC";130
+"F";3;"Bac";124
+"F";2;"Bac";133
+"H";1;"SupBac+2";130
+"H";3;"Bac+2";140
+"H";2;"Bac+2";117
+"F";3;"CAP,BEP";137
+"F";5;"Pas de diplome";108
+"F";2;"SupBac+2";131
+"F";4;"SupBac+2";122
+"F";3;"BEPC";126
+"F";2;"BEPC";125
+"H";3;"BEPC";138
+"F";3;"BEPC";118
+"F";1;"SupBac+2";131
+"H";1;"Pas de diplome";152
+"F";2;"Bac";127
+"H";3;"Pas de diplome";144
+"F";2;"SupBac+2";129
+"H";3;"Pas de diplome";142
+"F";3;"SupBac+2";112
+"H";2;"CAP,BEP";145
+"F";2;"Bac";105
+"F";3;"Pas de diplome";111
+"F";2;"Pas de diplome";140
+"H";2;"Bac+2";126
+"H";4;"Bac+2";132
+"F";3;"Bac";119
+"H";2;"BEPC";147
+"F";4;"SupBac+2";107
+"H";1;"BEPC";144
+"F";1;"Bac+2";132
+"H";3;"Bac+2";128
+"H";3;"CAP,BEP";144
+"F";5;"Bac";110
+"H";2;"SupBac+2";146
+"H";1;"Bac+2";132
+"H";3;"CAP,BEP";140
+"F";3;"Bac";119
+"F";1;"SupBac+2";135
+"F";1;"Bac+2";110
+"H";1;"SupBac+2";141
+"H";1;"SupBac+2";130
+"H";3;"Pas de diplome";138
+"H";4;"SupBac+2";121
+"F";2;"Bac+2";117
+"H";3;"Bac";140
+"H";1;"Bac";148
+"H";3;"CAP,BEP";148
+"H";2;"Bac+2";125
+"F";2;"Pas de diplome";130
+"H";3;"Bac";125
+"H";2;"Bac+2";137
+"H";1;"Bac+2";133
+"H";1;"Bac";134
+"F";1;"SupBac+2";120
+"H";5;"SupBac+2";135
+"H";4;"CAP,BEP";130
+"F";4;"Bac";113
+"H";2;"CAP,BEP";150
+"F";1;"Bac+2";111
+"H";3;"Pas de diplome";144
+"H";1;"BEPC";146
+"H";3;"Pas de diplome";138
+"H";3;"Bac+2";145
+"H";5;"BEPC";148
+"F";5;"Bac+2";116
+"H";3;"Bac+2";119
+"F";2;"BEPC";128
+"F";4;"SupBac+2";101
+"F";5;"SupBac+2";100
+"F";4;"BEPC";124
+"H";1;"CAP,BEP";142
+"F";5;"Pas de diplome";134
+"H";4;"Bac";141
+"F";5;"CAP,BEP";150
+"F";2;"Bac";110
+"H";2;"SupBac+2";128
+"H";4;"Bac";124
+"F";5;"Bac+2";106
+"H";3;"CAP,BEP";154
+"H";1;"Bac+2";138
+"H";5;"Bac";129
+"H";4;"Bac";134
+"F";3;"Pas de diplome";121
+"H";3;"SupBac+2";115
+"F";2;"Bac";121
+"H";3;"BEPC";155
+"H";4;"Bac+2";143
+"F";1;"BEPC";132
+"H";1;"Bac+2";140
+"H";1;"BEPC";145
+"H";1;"BEPC";127
+"H";3;"BEPC";140
+"H";2;"BEPC";135
+"F";2;"Bac+2";113
+"H";5;"CAP,BEP";141
+"H";2;"Pas de diplome";143
+"H";3;"Bac+2";141
+"F";2;"BEPC";101
+"F";1;"SupBac+2";146
+"F";1;"Bac+2";131
+"F";4;"Pas de diplome";138
+"H";5;"BEPC";131
+"F";2;"Bac";109
+"H";2;"CAP,BEP";153
+"F";1;"SupBac+2";140
+"H";2;"BEPC";145
+"F";4;"BEPC";114
+"F";1;"Bac";118
+"H";4;"Pas de diplome";148
+"H";2;"Bac";150
+"H";3;"Bac";125
+"H";5;"CAP,BEP";159
+"H";1;"BEPC";153
+"H";5;"CAP,BEP";159
+"F";4;"BEPC";128
+"F";5;"SupBac+2";104
+"F";2;"SupBac+2";118
+"F";2;"Bac+2";118
+"H";2;"Bac+2";132
+"F";4;"BEPC";108
+"H";1;"Bac+2";141
+"H";3;"SupBac+2";125
+"F";4;"CAP,BEP";149
+"H";1;"CAP,BEP";151
+"F";5;"Bac+2";125
+"H";3;"SupBac+2";123
+"H";4;"Bac+2";98
+"F";4;"BEPC";110
+"H";5;"SupBac+2";146
+"F";1;"BEPC";126
+"F";3;"BEPC";124
+"H";4;"BEPC";125
+"H";5;"BEPC";146
+"H";5;"Bac+2";136
+"H";4;"CAP,BEP";155
+"H";3;"CAP,BEP";143
+"H";5;"BEPC";137
+"F";1;"SupBac+2";131
+"H";4;"BEPC";131
+"H";4;"SupBac+2";121
+"H";1;"Bac";152
+"F";3;"CAP,BEP";127
+"H";3;"SupBac+2";111
+"F";5;"Bac";140
+"H";1;"SupBac+2";122
+"H";1;"Bac";134
+"H";2;"CAP,BEP";155
+"H";2;"Bac";137
+"H";3;"BEPC";119
+"F";3;"Pas de diplome";125
+"F";2;"Pas de diplome";127
+"F";1;"BEPC";135
+"F";1;"Bac+2";120
+"F";5;"Bac+2";102
+"F";5;"Bac";122
+"H";3;"Bac+2";125
+"H";1;"SupBac+2";138
+"H";3;"CAP,BEP";133
+"F";4;"Bac";113
+"F";1;"Bac";124
+"H";1;"Bac+2";143
+"F";5;"CAP,BEP";141
+"H";2;"Pas de diplome";134
+"H";3;"BEPC";125
+"F";2;"BEPC";135
+"F";1;"Pas de diplome";151
+"F";4;"BEPC";114
+"F";2;"Pas de diplome";126
+"H";2;"CAP,BEP";135
+"H";4;"Bac+2";124
+"F";5;"Bac+2";105
+"H";5;"SupBac+2";134
+"H";4;"SupBac+2";121
+"F";5;"Bac";100
+"F";2;"Bac+2";113
+"H";4;"CAP,BEP";159
+"F";4;"Bac";131
+"H";1;"Bac";127
+"H";1;"Bac+2";140
+"F";4;"BEPC";125
+"H";4;"Pas de diplome";150
+"F";4;"Pas de diplome";114
+"H";5;"Bac+2";144
+"H";3;"Bac+2";121
+"H";3;"BEPC";138
+"H";4;"Bac";143
+"H";4;"CAP,BEP";141
+"F";3;"Bac+2";115
+"H";4;"CAP,BEP";144
+"F";5;"Bac";119
+"F";3;"Bac";103
+"F";2;"Bac+2";121
+"H";2;"BEPC";152
+"H";3;"Bac";121
+"F";1;"CAP,BEP";141
+"F";1;"Pas de diplome";132
+"F";2;"BEPC";134
+"H";5;"CAP,BEP";153
+"H";3;"Pas de diplome";138
+"H";5;"Bac";133
+"H";1;"BEPC";142
+"H";3;"Bac+2";143
+"H";1;"BEPC";137
+"F";5;"BEPC";123
+"F";2;"Bac";133
+"F";2;"BEPC";132
+"F";4;"Pas de diplome";133
+"F";5;"CAP,BEP";142
+"F";2;"SupBac+2";105
+"F";1;"Bac";143
+"F";2;"CAP,BEP";127
+"H";2;"SupBac+2";121
+"H";1;"CAP,BEP";163
+"F";4;"Bac";126
+"F";5;"Bac";112
+"F";3;"Bac";139
+"F";4;"Bac+2";93
+"H";3;"Bac+2";122
+"F";2;"Pas de diplome";158
+"H";2;"Pas de diplome";132
+"F";5;"BEPC";108
+"F";3;"Bac";110
+"F";4;"Pas de diplome";134
+"F";2;"CAP,BEP";143
+"F";4;"CAP,BEP";118
+"F";4;"CAP,BEP";125
+"H";5;"Pas de diplome";154
+"H";5;"CAP,BEP";144
+"H";1;"BEPC";131
+"H";4;"BEPC";126
+"F";3;"Bac";127
+"H";4;"SupBac+2";134
+"F";4;"Bac";121
+"F";3;"Bac";113
+"F";3;"BEPC";118
+"F";2;"CAP,BEP";135
+"F";5;"BEPC";120
+"H";4;"Pas de diplome";131
+"F";2;"BEPC";138
+"H";5;"CAP,BEP";144
+"H";1;"BEPC";137
+"H";2;"BEPC";135
+"F";2;"CAP,BEP";127
+"H";1;"BEPC";128
+"F";1;"CAP,BEP";143
+"H";1;"Bac+2";143
+"H";1;"SupBac+2";131
+"H";2;"Bac+2";137
+"F";3;"Bac+2";115
+"F";1;"Pas de diplome";127
+"H";5;"Bac";135
+"H";1;"Bac+2";107
+"F";5;"Bac";109
+"H";3;"Pas de diplome";138
+"H";4;"Pas de diplome";142
+"H";4;"Bac";133
+"H";2;"Bac";132
+"F";3;"CAP,BEP";126
+"H";2;"CAP,BEP";149
+"H";3;"SupBac+2";115
+"H";5;"Pas de diplome";162
+"F";5;"CAP,BEP";119
+"H";3;"Bac";144
+"H";5;"BEPC";127
+"H";1;"SupBac+2";142
+"H";3;"Bac";124
+"H";1;"CAP,BEP";147
+"H";3;"BEPC";135
+"F";4;"SupBac+2";117
+"H";3;"BEPC";160
+"H";2;"BEPC";140
+"F";1;"Bac+2";135
+"F";1;"BEPC";143
+"F";1;"BEPC";135
+"H";4;"Bac";118
+"H";5;"BEPC";141
+"H";1;"Bac+2";129
+"H";4;"BEPC";117
+"F";3;"Bac";97
+"F";5;"Pas de diplome";121
+"H";2;"CAP,BEP";153
+"F";1;"BEPC";123
+"H";2;"Bac+2";137
+"F";3;"SupBac+2";107
+"H";3;"Pas de diplome";135
+"F";5;"Bac+2";125
+"F";3;"CAP,BEP";129
+"H";5;"Bac+2";145
+"F";4;"Bac+2";96
+"H";5;"SupBac+2";136
+"H";3;"Bac";135
+"H";1;"BEPC";146
+"F";1;"BEPC";125
+"F";5;"Bac";115
+"H";4;"BEPC";122
+"F";1;"Pas de diplome";136
+"H";5;"CAP,BEP";149
+"F";2;"Bac";129
+"F";2;"Bac";113
+"F";2;"BEPC";111
+"F";2;"SupBac+2";127
+"H";3;"BEPC";120
+"F";3;"Bac";120
+"H";1;"BEPC";132
+"F";3;"SupBac+2";104
+"H";5;"Pas de diplome";143
+"H";5;"Bac+2";133
+"F";2;"CAP,BEP";128
+"H";5;"SupBac+2";135
+"H";1;"SupBac+2";141
+"H";2;"Bac";152
+"H";2;"CAP,BEP";148
+"F";4;"BEPC";128
